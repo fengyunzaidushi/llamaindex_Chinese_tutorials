@@ -1,0 +1,169 @@
+{
+    "Toronto": {
+        "doc_hash": "1759bb8756d42cef8fdaa021eb42d5bab5b0481fb2429309b5b242b35a55cf4f"
+    },
+    "96076c12-3ffb-48e5-abe2-f70176135692": {
+        "doc_hash": "c349c960cdce8627d38c705e075df0ec12263366ddabbd00397c3ed1a4cf2d0c",
+        "ref_doc_id": "Toronto"
+    },
+    "5f4586e1-2b9f-4e94-88ee-7cc0e55be4ad": {
+        "doc_hash": "2e3a7b97b96b8c0aa73f7d802910956d7ab46c8b25cc29fba005226e41f35650",
+        "ref_doc_id": "Toronto"
+    },
+    "08e75689-0044-4ec9-b501-e52b66a79eb6": {
+        "doc_hash": "426ad75a769501a8825b2f37ef835b380e7eb54123eab62dae0da93fd1ac0c61",
+        "ref_doc_id": "Toronto"
+    },
+    "37183419-d65b-4d4e-8d05-e9a3fb638ded": {
+        "doc_hash": "49655d4a12105a5bef42f4297d7e96c6fa82daafac490a91ebfddd7ab2701b10",
+        "ref_doc_id": "Toronto"
+    },
+    "1fa1a4e9-e6ac-484c-9d0a-6f49932cffec": {
+        "doc_hash": "e453bf24b05639718c6861f26f5f1698f2d22a7d6ca99a3166c4abbaa409bddc",
+        "ref_doc_id": "Toronto"
+    },
+    "e6fe3908-4b60-4e85-9ae0-f4e60aff933d": {
+        "doc_hash": "78c0f67449e2b0e76c6394d07f65f053926888d8b6c02bcb103d3e32f3ef7776",
+        "ref_doc_id": "Toronto"
+    },
+    "20f9e451-7fec-4c71-8bbc-8f4cbe335291": {
+        "doc_hash": "20768f55eef851836b029a74ad8bba19fe9664fcec99249c8984270aebcfe426",
+        "ref_doc_id": "Toronto"
+    },
+    "4c04cab6-fe44-41d9-bb39-152ef654936a": {
+        "doc_hash": "a8155d4665417226578c1b04df1ad2f340c531b4cb7705d125773c54fa026588",
+        "ref_doc_id": "Toronto"
+    },
+    "d6b2413b-7204-498d-ab71-d92e70c44026": {
+        "doc_hash": "5f03d454bcf54018c717381fd91a0c0bca29e0ca227ccb9ea1871e15a1c28093",
+        "ref_doc_id": "Toronto"
+    },
+    "89405208-3aef-405f-a626-6aeac741e1bc": {
+        "doc_hash": "38291797fa70bd6ad694a5498cbf990950584956fef7b1c7097c5180a1b02eff",
+        "ref_doc_id": "Toronto"
+    },
+    "408f7576-15d7-4c64-aa00-da3a9ee2a0d0": {
+        "doc_hash": "48a8a12942059e1a8f46bf4314aa23e88d6d12945b2f9964e4110ce5ca4927c8",
+        "ref_doc_id": "Toronto"
+    },
+    "61f00243-2cac-4e5f-be4f-85b8b8a9fa4d": {
+        "doc_hash": "416996c33d8f2b1765ea2bd2c69cc3fc5ba6fdfe9d128957e19a2b54c57eeef1",
+        "ref_doc_id": "Toronto"
+    },
+    "f5792438-4204-4c52-9a30-a3a0153d0476": {
+        "doc_hash": "fd3ff34212a56aaeac68899d0d23fc9673bd71f690ee4ff410ae01cdf1f37619",
+        "ref_doc_id": "Toronto"
+    },
+    "973bff9f-417d-413e-847c-e2f945602d09": {
+        "doc_hash": "940ff5d88fa3a5bb6403916a92893f5908548bc2e778ff7a30edeed9c8a4711b",
+        "ref_doc_id": "Toronto"
+    },
+    "39cdd322-ac04-4faf-9aab-dca9eeffe0bb": {
+        "doc_hash": "5b211c79ceff9bcd7e722edd8865455de0eac941234f72baf1c071710157af64",
+        "ref_doc_id": "Toronto"
+    },
+    "201efc41-e7c9-4b9d-9b8c-063dd40dc890": {
+        "doc_hash": "a10d97c577e6277f6e29216261ba5b73af25230fb67b6ea55e0bc32e7f8cb093",
+        "ref_doc_id": "Toronto"
+    },
+    "1d8f54f4-7125-471f-9b7b-209c779256f7": {
+        "doc_hash": "f46cb63d2c33c449f1f66c1d50607ebc81e70b0e41d3eb31394be0894eb1147b",
+        "ref_doc_id": "Toronto"
+    },
+    "db7c723e-0e7f-4918-9c4c-f2153d673fd3": {
+        "doc_hash": "0bdebacec698bb0412b1724e0f5a641daad4e5775effc5d1c61f56de924f7de9",
+        "ref_doc_id": "Toronto"
+    },
+    "c1481ab4-5dac-4b9c-89c9-e4b8943699b3": {
+        "doc_hash": "6c2e2d3f8b01fda1bd6818c9d7f5c6da05dc1b68ed59efd2ebf5b8ccef85c2bf",
+        "ref_doc_id": "Toronto"
+    },
+    "3b084ebe-2e20-4de1-82b8-253bdbd55a2e": {
+        "doc_hash": "bdaefd3ed08bd230bf22af5bb3e7994b7994bf76a6e79aca75f7bb8a38a0f6e2",
+        "ref_doc_id": "Toronto"
+    },
+    "d0059962-cec6-4bb7-8683-a05d1c9a77cb": {
+        "doc_hash": "5bfc32b9bec857866a9cbd3d2a7dd708980c7a6ab374a353494ea79aa0392dc3",
+        "ref_doc_id": "Toronto"
+    },
+    "b1533c29-d32a-4cd1-97ca-02a19355b130": {
+        "doc_hash": "70083d800c8ed62ce913f6d4090b00f20e73fc916b311941e984b309aeb2e235",
+        "ref_doc_id": "Toronto"
+    },
+    "005cb3ed-019f-432b-a167-ca7f9564915e": {
+        "doc_hash": "64287c7bd154a0d158f785b0136d6a51168fcbe7bc64464644f2323d776cbef8",
+        "ref_doc_id": "Toronto"
+    },
+    "a283ee0c-4a54-4ced-a517-aca81a9d6100": {
+        "doc_hash": "026a578b74b56d85f3ad71b264de419c1c9c5168327611f2c550986390a4c55e",
+        "ref_doc_id": "Toronto"
+    },
+    "db9cfb12-2bc1-421f-a11d-22e103bbc22a": {
+        "doc_hash": "e3f6704f5c4ad7340910f29b1922c07795ccc58e48e5f09db8228f0d0145bdb8",
+        "ref_doc_id": "Toronto"
+    },
+    "4576f237-b8de-4e66-ba02-645492e708b5": {
+        "doc_hash": "4b426e3bdfeaeb05653d12f2c034d30025ee8aab0ff2de0db5cf75341d17e36d",
+        "ref_doc_id": "Toronto"
+    },
+    "711f19d4-a24d-4312-a0e5-f755f7504975": {
+        "doc_hash": "7bea783e9bce27c4045adb035907599c3208425e750e5324d3d62f7704b9a037",
+        "ref_doc_id": "Toronto"
+    },
+    "eac17d32-698e-4ff9-8e5f-098d48806268": {
+        "doc_hash": "bb90708bccb4f77d20affe105b706d8235b3d9834dcf9e5dde5dbf1b6daa9fa4",
+        "ref_doc_id": "Toronto"
+    },
+    "6bc7b10d-90e5-464c-b62a-8967923d6de3": {
+        "doc_hash": "a5d189ce46645e6fe3925ca0e4b0956e566fb4a7bcd4edfd3dd4a9f07797aa98",
+        "ref_doc_id": "Toronto"
+    },
+    "b2620db2-c421-4d9b-9da4-8b6ca423e5d4": {
+        "doc_hash": "688dece20451b89257d01c56b8eb39981e1c48abeb9d143425376b692960c172",
+        "ref_doc_id": "Toronto"
+    },
+    "598d2c6e-2e06-4d8c-9784-a0889eb7c7fb": {
+        "doc_hash": "4769d24dd208893b3833bd7b87ebe9525b9d0c9bf3955dd7e21ed48feeeaf905",
+        "ref_doc_id": "Toronto"
+    },
+    "044de3e1-68e7-44eb-8f9b-a2e1edee5a6f": {
+        "doc_hash": "f1a41c04ade858e1694c246ccc3135606a69171f21de61fdf779c32fb085dcc8",
+        "ref_doc_id": "Toronto"
+    },
+    "327e0247-4354-4c46-b5a7-a0db2cf426ef": {
+        "doc_hash": "c6ddc38aa4382e4fe7cf1a996c63f11c769d9990aa9befaedd708a980a4c463c",
+        "ref_doc_id": "Toronto"
+    },
+    "80179801-721e-460a-b65d-e17da7931143": {
+        "doc_hash": "c838440e79555d8ab7240609d76e088e27aa275011f4bb515d73f00208d4967a",
+        "ref_doc_id": "Toronto"
+    },
+    "3e33188c-396c-434f-b770-6105c025a035": {
+        "doc_hash": "d44b77d7815cad7edba7135e3ab27df62d0980dc3c0b0a23fa60f7a403bc27f1",
+        "ref_doc_id": "Toronto"
+    },
+    "8705bcbd-72d1-4d92-a204-4eafff7c58f1": {
+        "doc_hash": "361e20a66f4d7ca2d64076ee66924327e1e1a41a8e56fc7624ff209d209f513b",
+        "ref_doc_id": "Toronto"
+    },
+    "6393cd61-761b-428f-9fc5-3817f2c2da87": {
+        "doc_hash": "530e680b14e9772a22773f39ea4957e953ee094d0c8af692bd344b2123d37879",
+        "ref_doc_id": "Toronto"
+    },
+    "97694c8e-260e-4e85-8e53-3660d49b6307": {
+        "doc_hash": "6f045fe2c17ec6671a83399b39fe1acbadf71eff56ddb4fc824abde32d914fa5",
+        "ref_doc_id": "Toronto"
+    },
+    "725d5a48-7b49-4069-95f0-301265caa95c": {
+        "doc_hash": "68b494946e425243227ad2c3a3704d292a1eda81d3fd36985ff5a0d812f68cdf",
+        "ref_doc_id": "Toronto"
+    },
+    "8cf20e75-28d3-4d46-933f-3ca70907a6a2": {
+        "doc_hash": "31f6021266fbe5a0b6a0e689ada7cdf433e894201860ae03457eeb5a54649ded",
+        "ref_doc_id": "Toronto"
+    },
+    "c532374e-d86e-4338-8129-df1fb91a327b": {
+        "doc_hash": "b4948187a52c4c71f2e297e1d2ee1393a9bfa67ab3659a86d883b219a6b1530b",
+        "ref_doc_id": "Toronto"
+    }
+}

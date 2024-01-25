@@ -1,0 +1,3385 @@
+{
+    "docstore/metadata": {
+        "./data/01讲 价值感：怎么表达才能凸显干货.pdf": {
+            "doc_hash": "354a504f7b602a3d26dd0bfee044463821f193962a214a126f6ab49d1cbd4f8c"
+        },
+        "75b7fc6b-7090-4b1e-8353-f0ff3b07779e": {
+            "doc_hash": "ea5b41a370dfaa08fd595e0bcf5635c9ccb3cd36a0e032ab6dd642bc662c14e2"
+        },
+        "cf340970-cdbe-41cb-aa5a-a5a9efc36899": {
+            "doc_hash": "2a440046264257eab3b0b84df1b2f42ac2fa9d046d6639d00340044ed682264f"
+        },
+        "f2e15899-7de2-4d2c-ab14-a972a42f2a98": {
+            "doc_hash": "73a5ec94f4a7e20286a70f1da0039abee50e295b355f89ad34de05a153c5784c"
+        },
+        "2ffadbfc-5e35-44c9-a647-e47128b97a1d": {
+            "doc_hash": "2ef88dc01250a2ada9e7df8b2fee4ca9fda5b90570966768443da7e766ecf59d"
+        },
+        "8f51210b-6c70-4f7b-b389-db9a619ab8bb": {
+            "doc_hash": "d492c2910e5493cac915e1cafc31e61dbbcd6c4a520b0722a4cb122f236515e4"
+        },
+        "5cce0a53-6d7d-41d1-ad65-a03457ae2364": {
+            "doc_hash": "577c32144ff088dd26d6324494fe4c9719f91a7e906ae85ce9aee553eafecdf2"
+        },
+        "a4f022bd-4759-466d-8abc-389c1c7ec73e": {
+            "doc_hash": "0a3f8490c1e2d8293ec3bd94b21dd8d9316723427b25cf5d6c4f6dfe3f5d6e0a"
+        },
+        "10e0a2a2-ebce-4d19-8ff7-d91526f6ac5a": {
+            "doc_hash": "20025b04e213583d9cca57c5a7a4b802b198f1d844ce9c0d7da6cf550c6b5810"
+        },
+        "738a4a4d-97e4-4856-bdcc-d248b81a6b66": {
+            "doc_hash": "ee4c1611d872c848eed9a56e5f7fff4eb934c27d5dcb3b0a86b1f29b04ff019c"
+        },
+        "9ca615b7-e9e9-4f3d-b3e8-18e9abaa5d08": {
+            "doc_hash": "02c009eb2ae28ab5a9c018c318a60fe3211086184b1f7d64ed9b6cc19a04298e"
+        },
+        "9b106df7-699d-4cdd-bb8e-c5b040d7f299": {
+            "doc_hash": "78c08d1fcc017a467523c42d62e67e5ba32cb8c877aa6b54c0e5c1dca7e7feac"
+        },
+        "b51df590-8521-404a-9d05-b28d0bc3d817": {
+            "doc_hash": "ca50e352ebfced99ad9c7a4ae6959d501302218e77c60039416012dfd1ec80bd"
+        },
+        "5fc6ea6c-9991-44ac-b996-febb80924d1e": {
+            "doc_hash": "1dac19a057c3313679edfa78881ec63a97b5867755c1d4d3ed3a98f8c5b2fbb0"
+        },
+        "a9a20d0a-52b8-4621-84e8-853219891127": {
+            "doc_hash": "55c7dade80533a73208db6896dbaf007c86af05df0a8dd5a8626b36a3644bd9f"
+        },
+        "e9a95138-7f73-458f-91de-4b3f7fc74944": {
+            "doc_hash": "5452e94294745eddced4a52ca0efa91fa370718538636c7cac0671aa6d580369"
+        },
+        "9313f5a1-c1d4-4e28-ae81-24ddaed5c27a": {
+            "doc_hash": "54069cecf7a93da6143709bbfff2b61f171dcb59a239637569d2987a24461b7b"
+        },
+        "8ad74ad3-81d8-44b0-8778-5c3344891aa1": {
+            "doc_hash": "00c2f55882d079f175de5c22a7d6f1ba0e8ca73937412a153c7ffca728430143"
+        },
+        "ebb305d6-c39f-4488-805a-33d14f5efb6c": {
+            "doc_hash": "73772d63a8191b27f8edf415b00bc70520cfe9480833d8bea3b2812e7eb531b0"
+        },
+        "8292af99-067e-4a60-a889-3048cb5aa5d7": {
+            "doc_hash": "e128db67a0a9a9fc0d32b9d2ff42a605b15f4542e93b5bbeafd4b031aeaf524e"
+        },
+        "d5b9dd61-8fc0-4980-a22a-de84b03d6daf": {
+            "doc_hash": "4a16a30d6d16fd115013c4f48101e9bf8d0b437b36c5bddaa067be385aa801f8"
+        },
+        "0a19ff6d-f7e6-4bf3-93a0-65b1480b4b9e": {
+            "doc_hash": "95dee02708e6a132b4b6fbf3db2e1715518ec54b2bbf1429d71039b5136fa9cf"
+        },
+        "f8cf901c-03bd-4f1b-80d8-e4e3f1211d3b": {
+            "doc_hash": "765b3d13b4769352d8d36a869c8fe37c0b2c5a8df8d068eb492b900c0af2a039"
+        },
+        "63e6d767-adbd-4573-96b8-448aee0b087f": {
+            "doc_hash": "3ac0a6239953929afef4c616165621eb3ac7dde444bdef408357310504779450"
+        },
+        "4242e6d5-ab37-4b99-8fa3-1a0452590272": {
+            "doc_hash": "009ec9b584ae2a1e06e3ecb27d0dd9344f78fe68da84d356853631537d86a90b"
+        },
+        "3634ce3d-32b1-4bef-8252-a0971c403e36": {
+            "doc_hash": "1b038a53be949faf126c9d124a9f73dbda980260f41593c8944c5f9be790a608",
+            "ref_doc_id": "./data/01讲 价值感：怎么表达才能凸显干货.pdf"
+        },
+        "bda5fd70-4946-4a49-89fe-b0b8727e39b6": {
+            "doc_hash": "97bafa18130f6ded0e570158053e0309a2242f2db078754d60c0b66ab1a48d6d",
+            "ref_doc_id": "75b7fc6b-7090-4b1e-8353-f0ff3b07779e"
+        },
+        "e58f2b68-2590-44a4-8f9e-84cfc78b7ee2": {
+            "doc_hash": "3f4ce0f1c5abfb732967d287b516f3e9ba463ed8357a97ef0713672904fcf510",
+            "ref_doc_id": "cf340970-cdbe-41cb-aa5a-a5a9efc36899"
+        },
+        "4a0772a0-5a8c-4d9f-abb3-94ac42815420": {
+            "doc_hash": "9e4fd43ab02d0d521054304212ec92dff34aed4ada8e20dee7bf09c890d95ef9",
+            "ref_doc_id": "f2e15899-7de2-4d2c-ab14-a972a42f2a98"
+        },
+        "0ce66cc2-06ab-4aa5-b8b7-c0dd9c06d7c6": {
+            "doc_hash": "9cbcffca10ec3dd8f7d32b77914d6656437ce3131a40294c8aedeab7832e44c7",
+            "ref_doc_id": "2ffadbfc-5e35-44c9-a647-e47128b97a1d"
+        },
+        "8b69365b-6fb3-480e-94a2-793ecc211665": {
+            "doc_hash": "67590439ae38d26b26aff45baa6772a447d81836d480ff3c4bf54a33113eba32",
+            "ref_doc_id": "8f51210b-6c70-4f7b-b389-db9a619ab8bb"
+        },
+        "8ddff13e-3c66-4378-a4ea-535da8a4c588": {
+            "doc_hash": "a86791642851b27b18d33ee015cf30d3270a9efb4f48e820ae5ca30c9160f808",
+            "ref_doc_id": "5cce0a53-6d7d-41d1-ad65-a03457ae2364"
+        },
+        "71ac2b10-a3e9-4c46-a1ca-6c40ea44ef38": {
+            "doc_hash": "8fca22af79c65ac4f0bed958f95bf204fe883327ff3d04ac89a0aebcd98ed8c1",
+            "ref_doc_id": "a4f022bd-4759-466d-8abc-389c1c7ec73e"
+        },
+        "9be2794e-9a93-49f1-bb00-948b973ab83b": {
+            "doc_hash": "f6cd2e16a73584aed859e83f023019413737dce2e903aaf12710e625b3488510",
+            "ref_doc_id": "10e0a2a2-ebce-4d19-8ff7-d91526f6ac5a"
+        },
+        "1eeab789-fcdd-4fba-91e7-f7a8f0bf291f": {
+            "doc_hash": "ac0f4168d68f26cd16b8e8a9bee7351a36359fbec6c5d2afcb8beabb580f1dc5",
+            "ref_doc_id": "738a4a4d-97e4-4856-bdcc-d248b81a6b66"
+        },
+        "16f6f7ca-3885-4fe9-952b-ecdf118729f8": {
+            "doc_hash": "b008501f61a9db15e8e2acb293b0d6d372c871541b914418d971f3f4370877f1",
+            "ref_doc_id": "9ca615b7-e9e9-4f3d-b3e8-18e9abaa5d08"
+        },
+        "45c41164-7542-4363-8e1d-559646e61cb1": {
+            "doc_hash": "2ea0dcbdb97f4d871d55e860bc3c12fb6304b2863da46a50571bda55cac2d2f6",
+            "ref_doc_id": "9b106df7-699d-4cdd-bb8e-c5b040d7f299"
+        },
+        "c2470a4b-d830-49ba-92a1-03a589f07caf": {
+            "doc_hash": "84d1c213f541614edabe3973a2c06c11409168152d1fd58f34e4b966d5b05da1",
+            "ref_doc_id": "b51df590-8521-404a-9d05-b28d0bc3d817"
+        },
+        "ce9349b3-ce8b-4ad7-ae1b-f92450017b08": {
+            "doc_hash": "fb0ae382216ab6b4d41cf7377bd1a48df8949d89a6aa61348d06c4608adf7319",
+            "ref_doc_id": "5fc6ea6c-9991-44ac-b996-febb80924d1e"
+        },
+        "7a0fe89a-f6fb-415e-82a0-61006753bcb5": {
+            "doc_hash": "def9ea8f326f781bad7169976bec63a9b64c8f1a57cfd7d9c74441bcbd2fd4d8",
+            "ref_doc_id": "a9a20d0a-52b8-4621-84e8-853219891127"
+        },
+        "1c57a6c5-352b-4166-9c4c-173515398527": {
+            "doc_hash": "3ba9271fc639286ae5347e3edbdb9fa060b8ccfc11671a3801b6ddcf38fbeaef",
+            "ref_doc_id": "e9a95138-7f73-458f-91de-4b3f7fc74944"
+        },
+        "0bc92f3f-f823-45e7-8e50-b8b8de3f2d2e": {
+            "doc_hash": "cb0e0b4548a7b04f0f393853bf6a927dfcd66f2762c725cfe8d031d8175cb2a5",
+            "ref_doc_id": "9313f5a1-c1d4-4e28-ae81-24ddaed5c27a"
+        },
+        "9162ef2b-8bd2-4ce7-aa30-77cc052b8d8e": {
+            "doc_hash": "8a3e6c751ecbbabe3ac561466594d314762264c04611aadcaa0658ee18964bf5",
+            "ref_doc_id": "8ad74ad3-81d8-44b0-8778-5c3344891aa1"
+        },
+        "e897d791-dca1-4ad8-99c7-be8bde32d06b": {
+            "doc_hash": "609d8031b8a02509d65a79f933b5a873a0ed2a972dce9211cf9715c5640534a1",
+            "ref_doc_id": "ebb305d6-c39f-4488-805a-33d14f5efb6c"
+        },
+        "c9be6020-75e3-48d2-ba59-618c806b48e6": {
+            "doc_hash": "433e7a6bb4924b65ab459fe7e7aed21387cecc09ff8ee03ecc53439ed9a01a06",
+            "ref_doc_id": "8292af99-067e-4a60-a889-3048cb5aa5d7"
+        },
+        "20757933-f680-474f-b068-8dcf96ad892f": {
+            "doc_hash": "3cb7626fc82988ad6bd74f1d7b8f75547835e3fb216f2be55363c0dae6a36112",
+            "ref_doc_id": "d5b9dd61-8fc0-4980-a22a-de84b03d6daf"
+        },
+        "2cd0a469-cce8-402f-8cd7-29d4bb71308a": {
+            "doc_hash": "d9204dbabe4c5386f2d1c570ddcfa62353b3c867240ad9d36f57e9b6810a1b59",
+            "ref_doc_id": "0a19ff6d-f7e6-4bf3-93a0-65b1480b4b9e"
+        },
+        "f6f600ed-1338-4886-9add-f73699d36a73": {
+            "doc_hash": "d381cef6172efc89ba38cdb56d133b5fb38fe03af6b797d4b2a07897a4d4098f",
+            "ref_doc_id": "f8cf901c-03bd-4f1b-80d8-e4e3f1211d3b"
+        },
+        "32fcf1f6-0644-4074-9c4b-6de650d83768": {
+            "doc_hash": "f37b4ca76da26a91ac6766a6e69f2123a5f625451ca926e5a58406ffe4bf9a2e",
+            "ref_doc_id": "63e6d767-adbd-4573-96b8-448aee0b087f"
+        },
+        "6999262a-627c-47a3-b21f-2b63c6c2f7d8": {
+            "doc_hash": "f615bde1bcb36fb871b604cf1a2fa5d0da9d58fea9f6b8b404d8875a3a710ba5",
+            "ref_doc_id": "4242e6d5-ab37-4b99-8fa3-1a0452590272"
+        },
+        "23afadd7-bb7c-4f9a-b3f6-e9040cfcaac1": {
+            "doc_hash": "6cc2941f29700401bddf7b1d9312ce8d41eaf06a4ed3c3b1a1ba084886eabfc2",
+            "ref_doc_id": "./data/01讲 价值感：怎么表达才能凸显干货.pdf"
+        },
+        "6622aafa-784c-4927-945f-118072f71d0e": {
+            "doc_hash": "771650f4359c7a45f0cec7930080433304c4235b9d5e1b709a9123d94aad2186",
+            "ref_doc_id": "75b7fc6b-7090-4b1e-8353-f0ff3b07779e"
+        },
+        "7fc44253-7468-4b91-8048-3d62c7108808": {
+            "doc_hash": "5b07d2fff5f12b0b7e5df6457b14eee4352c6676c86e3b296e07778c0a885535",
+            "ref_doc_id": "cf340970-cdbe-41cb-aa5a-a5a9efc36899"
+        },
+        "146cc26b-c562-4794-8895-eaa5843f188d": {
+            "doc_hash": "6df469c4c4f1efb55b0f9d5eabe14e6747b009a3ec4f95b35750ce64dbfe77aa",
+            "ref_doc_id": "f2e15899-7de2-4d2c-ab14-a972a42f2a98"
+        },
+        "5439ae2d-a8a5-4c0c-9cdf-9270abdb3183": {
+            "doc_hash": "a1f35f6076657ec695c5971a5d3c91ee84fac9667e8fcbc8ce8ac6f77d698402",
+            "ref_doc_id": "2ffadbfc-5e35-44c9-a647-e47128b97a1d"
+        },
+        "f79bb874-2f39-493e-a6ed-9d6099e823e8": {
+            "doc_hash": "a511eb45d0b2aae2641a3d92e6279ae0a38b8d1fdacd553c14833a0acebcc6b3",
+            "ref_doc_id": "8f51210b-6c70-4f7b-b389-db9a619ab8bb"
+        },
+        "b99d45eb-008c-4b31-a05b-615de8cddf3d": {
+            "doc_hash": "64a52640fb35dacfb56c7c54405b1c1f77f48770582109059a3f13bb77b15a40",
+            "ref_doc_id": "5cce0a53-6d7d-41d1-ad65-a03457ae2364"
+        },
+        "03a25897-ff00-4500-892c-6e31ccea10d4": {
+            "doc_hash": "deb10953b4f553b795c7030bb6a7bbfa115d3259909136eda43bf61238f16066",
+            "ref_doc_id": "a4f022bd-4759-466d-8abc-389c1c7ec73e"
+        },
+        "550abc8d-8906-4cd7-be39-61a25196f3f6": {
+            "doc_hash": "d574ac516bf9849c0f6b3a89b8a85b95938dcb52d5e074790344840d3af79036",
+            "ref_doc_id": "10e0a2a2-ebce-4d19-8ff7-d91526f6ac5a"
+        },
+        "cc24d2eb-5d06-4e27-aa72-03409bf80236": {
+            "doc_hash": "fc1109874bce928f7d9be5fcf273de48bd4c61978c1f5a49b36eed6753e329aa",
+            "ref_doc_id": "738a4a4d-97e4-4856-bdcc-d248b81a6b66"
+        },
+        "d1259eee-c8be-4892-9b71-1afadb71c170": {
+            "doc_hash": "e3c8ca391ef5ae29a73157691038d20ce5d7e8bf1649f093435c6b6ac941b11d",
+            "ref_doc_id": "9ca615b7-e9e9-4f3d-b3e8-18e9abaa5d08"
+        },
+        "17b92af2-c793-4468-8abe-dd3c7ca6e245": {
+            "doc_hash": "4367dfc143c1e0e4739fde5012a64cb8e1e5aae3183ee3a880bac9569ee66607",
+            "ref_doc_id": "9b106df7-699d-4cdd-bb8e-c5b040d7f299"
+        },
+        "a46f3875-9122-41d5-93bc-41a1154ffb09": {
+            "doc_hash": "011e5701a03930a604f1ecc615c50233b03b6e57a107a5e605b4a574cd7cb6a4",
+            "ref_doc_id": "b51df590-8521-404a-9d05-b28d0bc3d817"
+        },
+        "25601439-19fc-4e25-8811-3ad25ecfad79": {
+            "doc_hash": "1164760c611f424dee0d7ee6f74533c1dfe30e26bcbcf21a54b22178dad4848d",
+            "ref_doc_id": "5fc6ea6c-9991-44ac-b996-febb80924d1e"
+        },
+        "817f797e-8a41-43ad-9e30-a66208cfee64": {
+            "doc_hash": "a073c482ba9f0a11a827c9b45c7d3d0e44f585701f0a9b5cabd505190f98d248",
+            "ref_doc_id": "a9a20d0a-52b8-4621-84e8-853219891127"
+        },
+        "7203be26-a38c-4083-a907-a6e621be8394": {
+            "doc_hash": "25b6fe9fa8ab5eeaa37ab3688b31fcc602e2c922b883f6c2f138330c4f7ca64f",
+            "ref_doc_id": "e9a95138-7f73-458f-91de-4b3f7fc74944"
+        },
+        "ee5fe855-ac98-4ddf-bb4e-9e6a2aa5f308": {
+            "doc_hash": "15f091ba313124e79b09c5b46f1da69c523623033fa3212f4712360650ae7b40",
+            "ref_doc_id": "9313f5a1-c1d4-4e28-ae81-24ddaed5c27a"
+        },
+        "67583082-ac70-4f10-be3d-16b47733cc6f": {
+            "doc_hash": "21cb134040ea340c7843a7f281e434144b8909f7dead3cf257ca8bc57839ed6d",
+            "ref_doc_id": "8ad74ad3-81d8-44b0-8778-5c3344891aa1"
+        },
+        "7bf13074-86f0-4ea8-ab06-e0349b2f738c": {
+            "doc_hash": "324c940c8ba81efc1f2004f37ff78053833962235a957aa8b17b34cbe67b2fbb",
+            "ref_doc_id": "ebb305d6-c39f-4488-805a-33d14f5efb6c"
+        },
+        "1e6957c0-8712-443e-95ae-2512a15288d7": {
+            "doc_hash": "50ffbdf5124484dd4321b49a333a149d55dfebe9132623467c181c233822b6c9",
+            "ref_doc_id": "8292af99-067e-4a60-a889-3048cb5aa5d7"
+        },
+        "28951f70-61a1-4922-8827-b1302449b7ce": {
+            "doc_hash": "5ee43fe059b6f50f75d6f75f95858523acb6add5a4be257590e1e82eb0963dde",
+            "ref_doc_id": "d5b9dd61-8fc0-4980-a22a-de84b03d6daf"
+        },
+        "c4a0fa7e-3cb6-4b43-bc68-e9865f658df1": {
+            "doc_hash": "0f11cab9f75ce65d75b8f9c9b917afa6e50fe2b95a6206cb83157649c61d3286",
+            "ref_doc_id": "0a19ff6d-f7e6-4bf3-93a0-65b1480b4b9e"
+        },
+        "058c5552-decb-4969-ad46-1efbb103a656": {
+            "doc_hash": "adf710456b4ecbe5c4b12ab9fd2efb4c989eba17a3507e8ee2172cea7116a28d",
+            "ref_doc_id": "f8cf901c-03bd-4f1b-80d8-e4e3f1211d3b"
+        },
+        "4e3027dd-27c1-4498-aab0-0d2b7a604116": {
+            "doc_hash": "67ad33a855462f5bf5174955fd19c64c93f9baba35909ce87322659856a794c8",
+            "ref_doc_id": "63e6d767-adbd-4573-96b8-448aee0b087f"
+        },
+        "425870f6-98ce-4a9e-83b2-4b0fadbbc27a": {
+            "doc_hash": "3612c6e3b6ce494d2034920f26ce0ce6e2c5049d16a730c5b3c29f3d2ce995ed",
+            "ref_doc_id": "4242e6d5-ab37-4b99-8fa3-1a0452590272"
+        }
+    },
+    "docstore/data": {
+        "3634ce3d-32b1-4bef-8252-a0971c403e36": {
+            "__data__": {
+                "id_": "3634ce3d-32b1-4bef-8252-a0971c403e36",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "1",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "./data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "1",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "354a504f7b602a3d26dd0bfee044463821f193962a214a126f6ab49d1cbd4f8c",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "bda5fd70-4946-4a49-89fe-b0b8727e39b6",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "97bafa18130f6ded0e570158053e0309a2242f2db078754d60c0b66ab1a48d6d",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "1b038a53be949faf126c9d124a9f73dbda980260f41593c8944c5f9be790a608",
+                "text": "01讲 价值感：怎么表达才能凸显干货？  \n当众表达训练营（第 1期） \n  \n开口就能说重点， 建立你的权威感。 欢迎来到 《当众表达训练营》 。\n你好，我是徐昆鹏。  \n  \n都已经加入了《当众表达训练营》 ，那么，相信你对当众表达的\n重要性已经认识清楚了。在这里，我只想再强调一个点：一个人\n要想有影响力， 就得有“人生杠杆”。 有足够多的资产是人生杠杆；\n有人脉是人生杠杆；能把自己的思想复制给别人，这也是人生杠\n杆。相对来说，比较容易做到的，是把自己的思想复制给别人。  \n  \n当然，除了表达，写作也是一个方法，区别是：写作影响范围广，\n但影响程度低；当众表达，看似一次就讲给十来个，最多上百个\n人听，但给现场人的影响程度很深。  \n  \n所以，用当众表达建立权威感，形成个人影响力，是我希望你在\n训练结束后达到的效果。  \n  \n21天怎么学？  \n  \n那具体怎么学呢？我们会用三周时间，完成当众表达的系统训",
+                "start_char_idx": 0,
+                "end_char_idx": 412,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "bda5fd70-4946-4a49-89fe-b0b8727e39b6": {
+            "__data__": {
+                "id_": "bda5fd70-4946-4a49-89fe-b0b8727e39b6",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "2",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "75b7fc6b-7090-4b1e-8353-f0ff3b07779e",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "2",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "ea5b41a370dfaa08fd595e0bcf5635c9ccb3cd36a0e032ab6dd642bc662c14e2",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "3634ce3d-32b1-4bef-8252-a0971c403e36",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "1",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "1b038a53be949faf126c9d124a9f73dbda980260f41593c8944c5f9be790a608",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "e58f2b68-2590-44a4-8f9e-84cfc78b7ee2",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "3f4ce0f1c5abfb732967d287b516f3e9ba463ed8357a97ef0713672904fcf510",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "97bafa18130f6ded0e570158053e0309a2242f2db078754d60c0b66ab1a48d6d",
+                "text": "练。 \n第一周，我们会学当众表达的三个基本原则：价值感、注意力和\n连接度。这三个原则也是衡量表达效果的标尺。  \n我和团队做了大量调研， 发现同学们在表达上遇到的问题都是有\n共性的，基本上 都逃不出这八大问题。所以后面两周，我们来专\n门解决这些问题。  \n第二周，我会先带你搞定三类发言：主题发言、闲谈破冰和即兴\n表达，然后教你讲故事。  \n第三周，我会带你解决当众表达最常遇到的三大麻烦：紧张了怎\n么办？不会接话了怎么办？现场出意外了怎么办？最后， 还会教\n你通过当众表达建立个人品牌。",
+                "start_char_idx": 0,
+                "end_char_idx": 244,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "e58f2b68-2590-44a4-8f9e-84cfc78b7ee2": {
+            "__data__": {
+                "id_": "e58f2b68-2590-44a4-8f9e-84cfc78b7ee2",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "3",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "cf340970-cdbe-41cb-aa5a-a5a9efc36899",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "3",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "2a440046264257eab3b0b84df1b2f42ac2fa9d046d6639d00340044ed682264f",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "bda5fd70-4946-4a49-89fe-b0b8727e39b6",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "2",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "97bafa18130f6ded0e570158053e0309a2242f2db078754d60c0b66ab1a48d6d",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "4a0772a0-5a8c-4d9f-abb3-94ac42815420",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "9e4fd43ab02d0d521054304212ec92dff34aed4ada8e20dee7bf09c890d95ef9",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "3f4ce0f1c5abfb732967d287b516f3e9ba463ed8357a97ef0713672904fcf510",
+                "text": "什么样的表达是有价值感的？  \n好，了解完三周的训练计划，下面就正式进入第一讲内容：怎么\n讲出价值感，让人觉得有干货？  \n什么样的表达是有价值感的呢？是舌灿莲花、 慷慨激昂吗？其实\n职场上的讲话，听众需要的不是一场表演，而是“我花时间听你\n讲，对我有什么价值。”听众真实的困扰是：“台上那个人到底想\n说啥？怎么我还得一边听一边在一堆信息里找答案？”  \n所以，这一讲我们的学习目标就是：怎么讲话，能条理清晰地把\n重要信息摆在听众面前，凸显价值感。  \n为了帮助你记忆，我专门设计了一个果核模型，贯穿在前三讲。\n这个模型有三层：果核、果肉和果皮。",
+                "start_char_idx": 0,
+                "end_char_idx": 273,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "4a0772a0-5a8c-4d9f-abb3-94ac42815420": {
+            "__data__": {
+                "id_": "4a0772a0-5a8c-4d9f-abb3-94ac42815420",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "4",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "f2e15899-7de2-4d2c-ab14-a972a42f2a98",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "4",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "73a5ec94f4a7e20286a70f1da0039abee50e295b355f89ad34de05a153c5784c",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "e58f2b68-2590-44a4-8f9e-84cfc78b7ee2",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "3",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "3f4ce0f1c5abfb732967d287b516f3e9ba463ed8357a97ef0713672904fcf510",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "0ce66cc2-06ab-4aa5-b8b7-c0dd9c06d7c6",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "9cbcffca10ec3dd8f7d32b77914d6656437ce3131a40294c8aedeab7832e44c7",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "9e4fd43ab02d0d521054304212ec92dff34aed4ada8e20dee7bf09c890d95ef9",
+                "text": "具体到今天这一讲，这三层是：  \n1.果核，是条目化，能帮你搭建起讲话框架。  \n2.果肉，是新信息，让你的讲话内容具体有料。  \n3.果皮，是给金句，这可是表达的精彩之处，是观众可以带走的\n东西。  \n那下面，我们就比照着，一层一层展开讲。  \n果核：条目化  \n先来解决第一个问题：怎么讲话才能条理清晰？  \n我先给你听两段音频，这是一个创业大赛上，两位创业者介绍自\n己的创业项目。请你一边听一边评判一下，假设你是投资人，你",
+                "start_char_idx": 0,
+                "end_char_idx": 214,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "0ce66cc2-06ab-4aa5-b8b7-c0dd9c06d7c6": {
+            "__data__": {
+                "id_": "0ce66cc2-06ab-4aa5-b8b7-c0dd9c06d7c6",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "5",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "2ffadbfc-5e35-44c9-a647-e47128b97a1d",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "5",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "2ef88dc01250a2ada9e7df8b2fee4ca9fda5b90570966768443da7e766ecf59d",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "4a0772a0-5a8c-4d9f-abb3-94ac42815420",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "4",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "9e4fd43ab02d0d521054304212ec92dff34aed4ada8e20dee7bf09c890d95ef9",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "8b69365b-6fb3-480e-94a2-793ecc211665",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "67590439ae38d26b26aff45baa6772a447d81836d480ff3c4bf54a33113eba32",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "9cbcffca10ec3dd8f7d32b77914d6656437ce3131a40294c8aedeab7832e44c7",
+                "text": "会觉得谁的讲话水平更高？你更愿意投资谁呢？  \n先来听第一位创业者的介绍（你可以在视频 4:04处聆听这段音\n频案例） ：  \n好，接下来我们听第二位创业者的介绍（请听视频 5:54处）：",
+                "start_char_idx": 0,
+                "end_char_idx": 94,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "8b69365b-6fb3-480e-94a2-793ecc211665": {
+            "__data__": {
+                "id_": "8b69365b-6fb3-480e-94a2-793ecc211665",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "6",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "8f51210b-6c70-4f7b-b389-db9a619ab8bb",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "6",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "d492c2910e5493cac915e1cafc31e61dbbcd6c4a520b0722a4cb122f236515e4",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "0ce66cc2-06ab-4aa5-b8b7-c0dd9c06d7c6",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "5",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "9cbcffca10ec3dd8f7d32b77914d6656437ce3131a40294c8aedeab7832e44c7",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "8ddff13e-3c66-4378-a4ea-535da8a4c588",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "a86791642851b27b18d33ee015cf30d3270a9efb4f48e820ae5ca30c9160f808",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "67590439ae38d26b26aff45baa6772a447d81836d480ff3c4bf54a33113eba32",
+                "text": "音频听完了。你觉得谁的介绍更清晰、更有水平？  \n很明显，是第一位。听完第二位的介绍，我们最多记住一些关键\n词：文语通、服务聋哑人，等等。但是第一位讲完，我们现在还\n记得他讲了四点：",
+                "start_char_idx": 0,
+                "end_char_idx": 91,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "8ddff13e-3c66-4378-a4ea-535da8a4c588": {
+            "__data__": {
+                "id_": "8ddff13e-3c66-4378-a4ea-535da8a4c588",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "7",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "5cce0a53-6d7d-41d1-ad65-a03457ae2364",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "7",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "577c32144ff088dd26d6324494fe4c9719f91a7e906ae85ce9aee553eafecdf2",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "8b69365b-6fb3-480e-94a2-793ecc211665",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "6",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "67590439ae38d26b26aff45baa6772a447d81836d480ff3c4bf54a33113eba32",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "71ac2b10-a3e9-4c46-a1ca-6c40ea44ef38",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "8fca22af79c65ac4f0bed958f95bf204fe883327ff3d04ac89a0aebcd98ed8c1",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "a86791642851b27b18d33ee015cf30d3270a9efb4f48e820ae5ca30c9160f808",
+                "text": "第一，为什么能赚钱？  \n第二，能赚多少钱？  \n第三，为什么是我？  \n第四，能赚多长时间？  \n你看， 第一位创业者就用了我们今天要讲的第一个方法： 条目法。\n所谓条目法，是把自己要讲的内容，整理出层次来，然后在条目\n前面加上“第一”“第二”“第三”。这样，就能把信息很清晰地呈现到\n对方面前。  \n没有条目的讲话，就像一锅杂烩汤，我要说的都放在这了，你要\n听什么自己找。条目清晰的讲话，就像是给小孩子喂饭，第一口\n是蘑菇，第二口是米饭，一勺勺喂给听众。每一个层次的信息，\n都听得清楚明白，容易理解。  \n那条目法具体怎么用呢？下面， 我们就拿第二个创业者的发言来\n做个练习。我们一起做个现场改造，把第二位创业者的发言改出\n条目来。我把他的发言内容整理成了文字，你可以阅读一下：  \n我的商业项目是一款叫文语通的电子设备， 它主要是用于解决聋\n哑人的听说障碍的文字和语音相互转换的电子装置。  \n我现在是利用目前最先进的手 写识别、 语音合成、 语音识别技术，",
+                "start_char_idx": 0,
+                "end_char_idx": 432,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "71ac2b10-a3e9-4c46-a1ca-6c40ea44ef38": {
+            "__data__": {
+                "id_": "71ac2b10-a3e9-4c46-a1ca-6c40ea44ef38",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "8",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "a4f022bd-4759-466d-8abc-389c1c7ec73e",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "8",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "0a3f8490c1e2d8293ec3bd94b21dd8d9316723427b25cf5d6c4f6dfe3f5d6e0a",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "8ddff13e-3c66-4378-a4ea-535da8a4c588",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "7",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "a86791642851b27b18d33ee015cf30d3270a9efb4f48e820ae5ca30c9160f808",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "9be2794e-9a93-49f1-bb00-948b973ab83b",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "f6cd2e16a73584aed859e83f023019413737dce2e903aaf12710e625b3488510",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "8fca22af79c65ac4f0bed958f95bf204fe883327ff3d04ac89a0aebcd98ed8c1",
+                "text": "生产一个叫文语通的掌上电脑。它能够迅速地将对方，就是正常\n人的讲话转成文字，让聋哑人知道正常人在讲什么；同时它能够\n让聋哑人将他所表达的意思通过手写转成声音告诉正常人。 这样\n就构建了一个聋哑人和正常人相互交流的一个信息平台。  \n  \n就我们的了解和检索， 目前这个产品是国内第一款解决聋哑人听\n说障碍的产品，属于我们自主的知识产权。  \n  \n根据中国常年的数据统计，目前我国有  2057 万残疾聋哑人口，\n这是一个非常庞大的弱势群体。 为这群弱势群体提供服务的市场\n需求是非常非常庞大的。我们愿意去做这件事，并为他们努力。  \n  \n同时我们这款产品可以移植到其他的残疾人身上， 比如说盲人的\n口语命令系统，文字阅读器。  \n你有没有发现，其实理成文字仔细看，第二个创业者的逻辑层次\n也还算清晰？他说了： “对用户的价值”“运用的技术”“产品的价值”\n“市场定位和需求”“能解决的第二类问题”。",
+                "start_char_idx": 0,
+                "end_char_idx": 401,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "9be2794e-9a93-49f1-bb00-948b973ab83b": {
+            "__data__": {
+                "id_": "9be2794e-9a93-49f1-bb00-948b973ab83b",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "9",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "10e0a2a2-ebce-4d19-8ff7-d91526f6ac5a",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "9",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "20025b04e213583d9cca57c5a7a4b802b198f1d844ce9c0d7da6cf550c6b5810",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "71ac2b10-a3e9-4c46-a1ca-6c40ea44ef38",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "8",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "8fca22af79c65ac4f0bed958f95bf204fe883327ff3d04ac89a0aebcd98ed8c1",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "1eeab789-fcdd-4fba-91e7-f7a8f0bf291f",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "ac0f4168d68f26cd16b8e8a9bee7351a36359fbec6c5d2afcb8beabb580f1dc5",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "f6cd2e16a73584aed859e83f023019413737dce2e903aaf12710e625b3488510",
+                "text": "但确实，短短一两分钟，想讲的东西太多、太分散。看文字或许\n还行，听起来，就显得比较枯燥，重点不突出。  \n从这么多信息里，我们可以理出三个线头：第一，市场需求大；\n第二，产品功能强；第三，技术先进。我这么来理一遍，你再听\n听（请听视频 9:15处） ：",
+                "start_char_idx": 0,
+                "end_char_idx": 126,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "1eeab789-fcdd-4fba-91e7-f7a8f0bf291f": {
+            "__data__": {
+                "id_": "1eeab789-fcdd-4fba-91e7-f7a8f0bf291f",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "10",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "738a4a4d-97e4-4856-bdcc-d248b81a6b66",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "10",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "ee4c1611d872c848eed9a56e5f7fff4eb934c27d5dcb3b0a86b1f29b04ff019c",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "9be2794e-9a93-49f1-bb00-948b973ab83b",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "9",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "f6cd2e16a73584aed859e83f023019413737dce2e903aaf12710e625b3488510",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "16f6f7ca-3885-4fe9-952b-ecdf118729f8",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "b008501f61a9db15e8e2acb293b0d6d372c871541b914418d971f3f4370877f1",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "ac0f4168d68f26cd16b8e8a9bee7351a36359fbec6c5d2afcb8beabb580f1dc5",
+                "text": "你看， 这么一改， 第二位创业者要表达的意思， 我一层都没有少，\n但条理却清晰多了。  \n可别小看“第一”“第二”“第三”这几个字，经过这么一整理，核心意\n思一下就被提炼出来了。整段讲话也从糊成一片的信息，变成了\n有清晰结构的表达。  \n案例：建筑公司经理会议发言  \n下面，我们再来看一个真实的案例。一家建筑公司的经理，在管\n理层会上做了个发言，他是这么说的（请听视频 10:49处） ：  \n你看，这段发言，就是把很多信息杂糅到一起了，下面我们就用",
+                "start_char_idx": 0,
+                "end_char_idx": 226,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "16f6f7ca-3885-4fe9-952b-ecdf118729f8": {
+            "__data__": {
+                "id_": "16f6f7ca-3885-4fe9-952b-ecdf118729f8",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "11",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "9ca615b7-e9e9-4f3d-b3e8-18e9abaa5d08",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "11",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "02c009eb2ae28ab5a9c018c318a60fe3211086184b1f7d64ed9b6cc19a04298e",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "1eeab789-fcdd-4fba-91e7-f7a8f0bf291f",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "10",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "ac0f4168d68f26cd16b8e8a9bee7351a36359fbec6c5d2afcb8beabb580f1dc5",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "45c41164-7542-4363-8e1d-559646e61cb1",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "2ea0dcbdb97f4d871d55e860bc3c12fb6304b2863da46a50571bda55cac2d2f6",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "b008501f61a9db15e8e2acb293b0d6d372c871541b914418d971f3f4370877f1",
+                "text": "条目法给他的讲话变个身。  \n他说了这么多，其实就是三个维度的工作：  \n一个是公司的资质要升级，很重要；  \n第二个是要有服务意识，可以积攒人脉；  \n第三个是用 VR新技术作营销。言外之意，我们也得跟上。  \n那条目化之后，就可以这么说（请听视频 12:02处） ：  \n你看，这样说完，下属们一听就知道你的看法是什么，而且还觉\n得领导部署工作真有水平。  \n练习 \n下面我们再来做个练习：",
+                "start_char_idx": 0,
+                "end_char_idx": 197,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "45c41164-7542-4363-8e1d-559646e61cb1": {
+            "__data__": {
+                "id_": "45c41164-7542-4363-8e1d-559646e61cb1",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "12",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "9b106df7-699d-4cdd-bb8e-c5b040d7f299",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "12",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "78c08d1fcc017a467523c42d62e67e5ba32cb8c877aa6b54c0e5c1dca7e7feac",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "16f6f7ca-3885-4fe9-952b-ecdf118729f8",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "11",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "b008501f61a9db15e8e2acb293b0d6d372c871541b914418d971f3f4370877f1",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "c2470a4b-d830-49ba-92a1-03a589f07caf",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "84d1c213f541614edabe3973a2c06c11409168152d1fd58f34e4b966d5b05da1",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "2ea0dcbdb97f4d871d55e860bc3c12fb6304b2863da46a50571bda55cac2d2f6",
+                "text": "在一个项目会议上，项目经理突然问组员：“小王，你昨天去旁\n听了采购部的复盘，他们都讨论了哪些问题啊？”  \n小王是这么回答的（你可以在视频 13:05处聆听这段音频案例） ：  \n昨天旁听他们的会，发现很多样品，都不用登记就能随意拿走。\n商品入库的时候，一些小产品都没有做记录，也就是说都没有录\n进公司系统里。而且不管什么样的采购申请，都只有总监审批，\n没有中间环节，但是总监经常顾不过来，审批就挺慢的。  \n你看，小王说了这么多信息，但确实让人很难听下去。其实小王\n主要就说了三点意思。来，我们一起给他条目化一下（你可以在\n视频 13:41处聆听这段音频案例） ：  \n领导，我记录了一下，一共就是这三个方面的问题：  \n第一， 采购申请没有分级授权审批。 大小申请， 都只有总监审批，\n但总监有时候顾不过来会影响进度。  \n第二，商品入库登记有漏洞，很多小产品都没有录入系统。  \n第三，样品领用不做登记。  \n小王要是这样回答，领导就会觉得：说得很有条理，有深入的思\n考，讲的内容也有参考价值。  \n参考话术  \n前面说了，最简单的条目化，做到“分三点”就行。下面，我再带",
+                "start_char_idx": 0,
+                "end_char_idx": 489,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "c2470a4b-d830-49ba-92a1-03a589f07caf": {
+            "__data__": {
+                "id_": "c2470a4b-d830-49ba-92a1-03a589f07caf",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "13",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "b51df590-8521-404a-9d05-b28d0bc3d817",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "13",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "ca50e352ebfced99ad9c7a4ae6959d501302218e77c60039416012dfd1ec80bd",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "45c41164-7542-4363-8e1d-559646e61cb1",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "12",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "2ea0dcbdb97f4d871d55e860bc3c12fb6304b2863da46a50571bda55cac2d2f6",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "ce9349b3-ce8b-4ad7-ae1b-f92450017b08",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "fb0ae382216ab6b4d41cf7377bd1a48df8949d89a6aa61348d06c4608adf7319",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "84d1c213f541614edabe3973a2c06c11409168152d1fd58f34e4b966d5b05da1",
+                "text": "你在职场高频的使用场景里体会一下：  \n好，到这里，我们的果核部分就讲完了。我教你如何用条目化的\n方式搭建讲话结构，增加讲话的价值感。从明天开始，你就可以\n先练习起来，尝试发言之前先写三点关键词，然后按照这三点的\n条目来讲话。  \n果肉：新信息  \n好，掌握了条目法，我们的讲话有了骨架，从没有章法变得有条\n理。那下一个问题来了，具体内容的部分，怎么讲出干货感呢？  \n先请你回想一下， 别人说什么的时候你最不耐烦？肯定是说你已\n经知道的事的时候。没有新信息量，就感受不到价值。  \n所以，下面进入果肉部分，教你让讲话有价值感的第二个方法：",
+                "start_char_idx": 0,
+                "end_char_idx": 270,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "ce9349b3-ce8b-4ad7-ae1b-f92450017b08": {
+            "__data__": {
+                "id_": "ce9349b3-ce8b-4ad7-ae1b-f92450017b08",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "14",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "5fc6ea6c-9991-44ac-b996-febb80924d1e",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "14",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "1dac19a057c3313679edfa78881ec63a97b5867755c1d4d3ed3a98f8c5b2fbb0",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "c2470a4b-d830-49ba-92a1-03a589f07caf",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "13",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "84d1c213f541614edabe3973a2c06c11409168152d1fd58f34e4b966d5b05da1",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "7a0fe89a-f6fb-415e-82a0-61006753bcb5",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "def9ea8f326f781bad7169976bec63a9b64c8f1a57cfd7d9c74441bcbd2fd4d8",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "fb0ae382216ab6b4d41cf7377bd1a48df8949d89a6aa61348d06c4608adf7319",
+                "text": "设计新信息。什么意思 ？来，我们看一个领导讲话的例子。很多\n领导在例会发言经常都这么说（请听视频 16:02处） ：  \n这个季度咱得好好干，不要一味追求业绩结果，而要先关注客户\n的需求。  \n这个道理我们听过很多遍了， 下属可能根本就意识不到这个问题\n到底有多重要。但如果你加上一个新信息，效果马上就不一样了\n（请听视频 16:23处） ：  \n今年外部压力很大。你们可能不知道：上个月，又有两个大公司\n来做我们这个业务了，竞品下个季度马上就上线。这个季度咱得\n好好干，不要一味追求业绩结果，而要先关注客户的需求。  \n你看，加上行业新信息，这个讲话就会显得言之 有物，下属也能\n理解领导强调这个点到底是什么意思。  \n  \n独特视角  \n好，看到了加新信息的价值，  新的问题也就来了：我们每天都\n要上班，没有时间天天看书看新闻，上哪儿去找新信息呢？我给\n你提供一个找新信息的思路，你要用好自己的独特视角。  \n  \n其实，我们知道很多别人不知道的事，但自己并没有意识到。回\n想一下， 你跟听众的角色差异是什么？找新信息的思路也就明确\n了。",
+                "start_char_idx": 0,
+                "end_char_idx": 472,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7a0fe89a-f6fb-415e-82a0-61006753bcb5": {
+            "__data__": {
+                "id_": "7a0fe89a-f6fb-415e-82a0-61006753bcb5",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "15",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "a9a20d0a-52b8-4621-84e8-853219891127",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "15",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "55c7dade80533a73208db6896dbaf007c86af05df0a8dd5a8626b36a3644bd9f",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "ce9349b3-ce8b-4ad7-ae1b-f92450017b08",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "14",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "fb0ae382216ab6b4d41cf7377bd1a48df8949d89a6aa61348d06c4608adf7319",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "1c57a6c5-352b-4166-9c4c-173515398527",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "3ba9271fc639286ae5347e3edbdb9fa060b8ccfc11671a3801b6ddcf38fbeaef",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "def9ea8f326f781bad7169976bec63a9b64c8f1a57cfd7d9c74441bcbd2fd4d8",
+                "text": "假设你是公司管理层，要给员工讲话。你们的角色差异就是：你\n的站位更高，视野更开阔，你掌握了很多员工没掌握的信息。包\n括： \n公司的战略方向  \n其他部门的信息  \n任务的背景、目标  \n行业动态  \n市场大环境  \n所以，当众讲话的时候，你要有意识地把这些信息讲给员工听。\n其实很多公司的老板，都会专门跑去跟外部专家聊天请教，然后\n回来再转述给员工听。  \n举个例子，业务部门的张总给下属开季度总结会，他是这么说的\n（请听视频 18:07处） ：  \n这个季度，咱们部门的业绩最终做到了 3000万，比上个季度多\n了200万。 \n \n听起来好像还挺不错。 但是如果补充一下其他部门的业绩信息，\n从全公司来看这个数据，那这个数据是好还是不好呢？（请听视\n频18:26处） \n这个季度，咱们部门的业绩最终做到了 3000万，比上个季度多\n了200万……。",
+                "start_char_idx": 0,
+                "end_char_idx": 375,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "1c57a6c5-352b-4166-9c4c-173515398527": {
+            "__data__": {
+                "id_": "1c57a6c5-352b-4166-9c4c-173515398527",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "16",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "e9a95138-7f73-458f-91de-4b3f7fc74944",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "16",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "5452e94294745eddced4a52ca0efa91fa370718538636c7cac0671aa6d580369",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "7a0fe89a-f6fb-415e-82a0-61006753bcb5",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "15",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "def9ea8f326f781bad7169976bec63a9b64c8f1a57cfd7d9c74441bcbd2fd4d8",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "0bc92f3f-f823-45e7-8e50-b8b8de3f2d2e",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "cb0e0b4548a7b04f0f393853bf6a927dfcd66f2762c725cfe8d031d8175cb2a5",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "3ba9271fc639286ae5347e3edbdb9fa060b8ccfc11671a3801b6ddcf38fbeaef",
+                "text": "但是咱横向对比：隔壁事业部，他们的目标是 6000万，最终做\n到7500万，是我们的两倍 ……。 \n你看，这么一比，是不是就没什么好骄傲的？下个季度还要加油\n啊。 \n好，那有的同学要问了：如果我是作为下属给上级汇报，或者对\n其他同事讲话，我没有这样的信息优势怎么办？  \n不会的，你当然也有你的信息优势地带：你更了解一线执行的情\n况， 这些都是领导和其他人需要的。 所以， 在做相关汇报的时候，\n你可以重点补充：  \n背景信息  \n一线同事的反馈  \n用户情况  \n举个例子，公司正在开产品推广讨论会，主要的推广方案是：在\n线下便利店做专柜展示。 那具体选择哪些便利店呢？市场部的小\n王说了自己的看法（请听视频 19:33处） ：  \n其实，我更建议跟 X便利店合作。  \n我前段时间刚做了市场调查， X家便利店的数量在全国是最多\n的，门店总量接近 3万家。",
+                "start_char_idx": 0,
+                "end_char_idx": 379,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "0bc92f3f-f823-45e7-8e50-b8b8de3f2d2e": {
+            "__data__": {
+                "id_": "0bc92f3f-f823-45e7-8e50-b8b8de3f2d2e",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "17",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "9313f5a1-c1d4-4e28-ae81-24ddaed5c27a",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "17",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "54069cecf7a93da6143709bbfff2b61f171dcb59a239637569d2987a24461b7b",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "1c57a6c5-352b-4166-9c4c-173515398527",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "16",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "3ba9271fc639286ae5347e3edbdb9fa060b8ccfc11671a3801b6ddcf38fbeaef",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "9162ef2b-8bd2-4ce7-aa30-77cc052b8d8e",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "8a3e6c751ecbbabe3ac561466594d314762264c04611aadcaa0658ee18964bf5",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "cb0e0b4548a7b04f0f393853bf6a927dfcd66f2762c725cfe8d031d8175cb2a5",
+                "text": "我们生活在北京，感觉 Y家便利店好像数量不少，但其实 门店总\n量还不到 3000家。 \n两家便利店的数量， 就是小王从市场的角度给出了有价值的新信\n息。那最后公司的产品推广，到底是跟谁合作？小王的这条信息\n就很有参考价值。  \n除了前面说的， 还有一类信息很特殊， 那就是跟用户相关的信息，\n也就是来自用户的故事。这些是你讲话里最容易出彩的部分，所\n以如果手里有的话，一定要加上。  \n比如，一家培训机构在复盘杭州和西安两个地区的培训课程时，\n发现《怎么做抖音直播》的课程，在杭州的满意度要明显高于西\n安。 大家在讨论原因时， 客服部门补充了一个信息， 很有价值 （请\n听视频 20:38处） ：  \n我们在西安的客户，大部分是来自国企，对这节课的需求不是很\n大。杭州客户很多来自私人企业，对做电商直播有更强的需求。  \n这就是从客户的视角提供了一条有价值的新信息。这条信息，对\n其它部门的工作，也会有帮助。  \n另外，如果你经常要出去做分享，那专家的身份就更要求你必须\n给足新信息。假设你是一个茶饮市场的研究专家，受邀去给一家\n奶茶品牌做培训。那可提供的新信息就更多了：",
+                "start_char_idx": 0,
+                "end_char_idx": 486,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "9162ef2b-8bd2-4ce7-aa30-77cc052b8d8e": {
+            "__data__": {
+                "id_": "9162ef2b-8bd2-4ce7-aa30-77cc052b8d8e",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "18",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "8ad74ad3-81d8-44b0-8778-5c3344891aa1",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "18",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "00c2f55882d079f175de5c22a7d6f1ba0e8ca73937412a153c7ffca728430143",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "0bc92f3f-f823-45e7-8e50-b8b8de3f2d2e",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "17",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "cb0e0b4548a7b04f0f393853bf6a927dfcd66f2762c725cfe8d031d8175cb2a5",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "e897d791-dca1-4ad8-99c7-be8bde32d06b",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "609d8031b8a02509d65a79f933b5a873a0ed2a972dce9211cf9715c5640534a1",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "8a3e6c751ecbbabe3ac561466594d314762264c04611aadcaa0658ee18964bf5",
+                "text": "行业前沿观察  \n相关行业的经验迁移  \n个人研究成果  \n这些都可以设计成新信息。 比如， 谈到行业现状， 你就可以说 （请\n听视频 21:30处） ：  \n从去年到今年，整个奶茶市场的增速是不断放缓的。不过，整个\n行业还有一个新趋势：一二线往三四线下沉，三四线线往乡镇下\n沉。别看 XX品牌门店数量在一线城市是负增长，但是这一年他\n在县城的数量却增长了 80%。 \n好，这是果肉部分，要给观众新信息，讲话就会有干货、有价值。\n你看，听到这些新信息的时候，做决策就更有抓手了。  \n果皮：给金句  \n其实，能做到以上几步，我们的表达就已经挺有干货了。不过，\n还可以再上个台阶，追求讲话有干货的高光时刻：拍照。在我们\n公司，判断一场分享好不好，有一个标准，叫举机率，就是观众\n举起手机拍 PPT的频率。最容易被拍的，就是金句。  \n比如，罗振宇每年跨年演讲结束，朋友圈里流传的都是金句，比\n如2020年跨年演讲的 “躬身入局 ”、2021年的“面对复杂，保持欢\n喜”。粟渺社分享微信jnztxy谨防N手群转卖，以免断更",
+                "start_char_idx": 0,
+                "end_char_idx": 459,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "e897d791-dca1-4ad8-99c7-be8bde32d06b": {
+            "__data__": {
+                "id_": "e897d791-dca1-4ad8-99c7-be8bde32d06b",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "19",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "ebb305d6-c39f-4488-805a-33d14f5efb6c",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "19",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "73772d63a8191b27f8edf415b00bc70520cfe9480833d8bea3b2812e7eb531b0",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "9162ef2b-8bd2-4ce7-aa30-77cc052b8d8e",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "18",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "8a3e6c751ecbbabe3ac561466594d314762264c04611aadcaa0658ee18964bf5",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "c9be6020-75e3-48d2-ba59-618c806b48e6",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "433e7a6bb4924b65ab459fe7e7aed21387cecc09ff8ee03ecc53439ed9a01a06",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "609d8031b8a02509d65a79f933b5a873a0ed2a972dce9211cf9715c5640534a1",
+                "text": "好，金句我们都想用，但从哪找呢？我给你三个办法：  \n  \n第一，平时积累名人名言，看书记金句  \n  \n《翔谈》的作者、商业作家李翔老师，就有一个神秘 的本子，记\n录了大量的金句。实不相瞒，他的朋友圈和得到知识城邦，也是\n我收集金句的重要来源。  \n  \n另外， 很多人在说金句之前， 有个困惑， 总觉得不好意思说出口，\n或者不知道应该怎么引出。其实，上金句是个挺有价值的事，就\n大大方方地引出来就行，你可以这么说：  \n为了准备这次讲话， 我还特意去找了一下金句， 有一句特别贴切：\n“行动越早，痛苦越小。”  \n这样说，不但不尴尬，还会显得你特别真诚。  \n金句还能起到给你的讲话打隔断、上价值的作用，来看个例子：  \n技术部根据用户需求，升级了操作系统，但用户却不买账。产品\n经理小王复盘时是这么说的（请听视频 23:56处） ：  \n真正的理解用户，可不是做个问卷调查，得出结论就完事儿了。  \n这么说，道理都对，但听着没什么价值感，大家都没什么反应。\n而他的同事小李是这么说的（请听视频 24:10处） ：  \n最近我刚好看到了这么一句话，值得我们产品经理记住。",
+                "start_char_idx": 0,
+                "end_char_idx": 487,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "c9be6020-75e3-48d2-ba59-618c806b48e6": {
+            "__data__": {
+                "id_": "c9be6020-75e3-48d2-ba59-618c806b48e6",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "20",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "8292af99-067e-4a60-a889-3048cb5aa5d7",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "20",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "e128db67a0a9a9fc0d32b9d2ff42a605b15f4542e93b5bbeafd4b031aeaf524e",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "e897d791-dca1-4ad8-99c7-be8bde32d06b",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "19",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "609d8031b8a02509d65a79f933b5a873a0ed2a972dce9211cf9715c5640534a1",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "20757933-f680-474f-b068-8dcf96ad892f",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "3cb7626fc82988ad6bd74f1d7b8f75547835e3fb216f2be55363c0dae6a36112",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "433e7a6bb4924b65ab459fe7e7aed21387cecc09ff8ee03ecc53439ed9a01a06",
+                "text": "今天也借此机会分享给大家：“把简单留给用户，把复杂留给自\n己。”  \n你要是在现场，是不是很想举起手机把这句话拍下来？  \n  \n第二，善用《金句手册》  \n  \n有的同学说， 我还 没有积累金句的习惯， 可是明天马上就要用了，\n怎么办？别急，我要给你的第二个工具，是我们团队整理的《金\n句手册》 。这本手册已经收录 100多条金句，我们还按使用场景\n分成了八大类，包括：  \n激发团队  \n反思过去  \n回忆过往  \n提升认知  \n展望未来  \n感慨岁月  \n与人共勉  \n表达祝愿  \n你可以把它作为金句资源库，随取随用。  \n  \n举个例子：  \n如果你给团队开复盘会，说到用户反馈，可以用这句：用户投诉",
+                "start_char_idx": 0,
+                "end_char_idx": 305,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "20757933-f680-474f-b068-8dcf96ad892f": {
+            "__data__": {
+                "id_": "20757933-f680-474f-b068-8dcf96ad892f",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "21",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "d5b9dd61-8fc0-4980-a22a-de84b03d6daf",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "21",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "4a16a30d6d16fd115013c4f48101e9bf8d0b437b36c5bddaa067be385aa801f8",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "c9be6020-75e3-48d2-ba59-618c806b48e6",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "20",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "433e7a6bb4924b65ab459fe7e7aed21387cecc09ff8ee03ecc53439ed9a01a06",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "2cd0a469-cce8-402f-8cd7-29d4bb71308a",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "d9204dbabe4c5386f2d1c570ddcfa62353b3c867240ad9d36f57e9b6810a1b59",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "3cb7626fc82988ad6bd74f1d7b8f75547835e3fb216f2be55363c0dae6a36112",
+                "text": "不是事故，而是企业的价值发动机。  \n  \n给新员工做培训，说到工作目标，你可以用：工作能力，其实就\n是能把大目标拆解成小事情的能力。  \n  \n团队里有人工作眼高手低，你想敲打敲打他，可以用这句，叫：\n赢得别人尊重的方式，是把自己活成解决方案，而不是活成一个\n问题。  \n这本《金句手册》 ，我们会持续更新。每次有新版本，就会让助\n教老师同步给你。另外，也欢迎把你的金句贡献出来，我们一起\n整理、壮大这本《金句手册》 。  \n  \n第三，用“不是而是”大法原创金句  \n  \n好，有同学说了：万一前两个办法都找不到我想要的金句，怎么\n办呢?这个也不难，我们可以自己写一个，这也是我要教你的第\n三个金句方法，用 “不是……而是……”大法原创一个。  \n  \n“不是而是”是我们得到老师讲课有干货的绝招， 它可以帮你从“给\n新信息”，进阶到“给新认知”。尤其对成年人来说，成年人什么时\n候会觉得你的讲话有价值？很多时候都是你帮他否定了过去的\n固有看法，提供一个了新认知。",
+                "start_char_idx": 0,
+                "end_char_idx": 434,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "2cd0a469-cce8-402f-8cd7-29d4bb71308a": {
+            "__data__": {
+                "id_": "2cd0a469-cce8-402f-8cd7-29d4bb71308a",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "22",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "0a19ff6d-f7e6-4bf3-93a0-65b1480b4b9e",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "22",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "95dee02708e6a132b4b6fbf3db2e1715518ec54b2bbf1429d71039b5136fa9cf",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "20757933-f680-474f-b068-8dcf96ad892f",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "21",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "3cb7626fc82988ad6bd74f1d7b8f75547835e3fb216f2be55363c0dae6a36112",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "f6f600ed-1338-4886-9add-f73699d36a73",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "d381cef6172efc89ba38cdb56d133b5fb38fe03af6b797d4b2a07897a4d4098f",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "d9204dbabe4c5386f2d1c570ddcfa62353b3c867240ad9d36f57e9b6810a1b59",
+                "text": "来，我们先放到领导讲话里对比看一下。比如，张总要给下属讲\n话，谈工作作风，传统的讲法是（请听视频 26:39处） ：  \n咱们部门最近有个不太好的风气：每次工作汇报， PPT一个赛一\n个精美。昨天晚上 10点了，还有人在熬夜做 PPT。我们开会、\n汇报，要的是你对工作的思考。以后我们开会，一律不许用 PPT\n汇报。  \n很平常的一个领导讲话， 对不对？如果我再加上几个不是而是的\n句式，试试看效果（请听视频 27:05处） ：  \n咱们部门最近有个不太好的风气。每次工作汇报， PPT一个赛一\n个精美。昨天晚上 10点了，还有人在熬夜做 PPT。你对公司最\n有价值地方的不是做一个精美的 PPT，而是你对工作的思考。我\n们不要搞形式主义， 而要做真正能创造价值的事。 以后我们开会，\n一律不许用 PPT汇报。  \n你看，这么一组“不是……而是……”的句式加 进去，是不是更有气\n场和价值？  \n  \n怎么用这个句式？我帮你拆分了一下，总共是两步走：  \n  \n第一步，找到过去的旧观点，填到“不是”后面 。比如，“ PPT要设\n计精美”，这就是旧观点。",
+                "start_char_idx": 3,
+                "end_char_idx": 480,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "f6f600ed-1338-4886-9add-f73699d36a73": {
+            "__data__": {
+                "id_": "f6f600ed-1338-4886-9add-f73699d36a73",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "23",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "f8cf901c-03bd-4f1b-80d8-e4e3f1211d3b",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "23",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "765b3d13b4769352d8d36a869c8fe37c0b2c5a8df8d068eb492b900c0af2a039",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "2cd0a469-cce8-402f-8cd7-29d4bb71308a",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "22",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "d9204dbabe4c5386f2d1c570ddcfa62353b3c867240ad9d36f57e9b6810a1b59",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "32fcf1f6-0644-4074-9c4b-6de650d83768",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "f37b4ca76da26a91ac6766a6e69f2123a5f625451ca926e5a58406ffe4bf9a2e",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "d381cef6172efc89ba38cdb56d133b5fb38fe03af6b797d4b2a07897a4d4098f",
+                "text": "第二步，找到你想说的新观点，填到“而是”后面。 比如刚才那个\n例子，“要体现思考的深刻”就是张总想说的新观点。  \n  \n好，这个部分比较难，没关系，我们课后还可以继续练习。  \n  \n这里要特别提醒的是， 我们特别容易犯错的地方是： 写了个假“不\n是而是”。比如“我们不是要懒惰，而是要勤奋”。形式有了，但“要\n勤奋”谁都知道，不需要你再强调。  \n  \n那怎么调呢？如果我们把它反过来，换成：“我们不是要一味地\n勤奋，而是要学会偷懒”，是不是一下就有新意了？它的意思可\n能是“工作压力大，要学会调节”，也可能是“不要用战术的勤奋，\n掩盖战略的懒惰”。  \n  \n所以，真理的反面不是错误，而是另外一个真理，这句话本身，\n就是“不是而是”大法的精髓。  \n  \n上台阶：外带法  \n  \n好，重要的三个方法，我已经给你讲完了。如果你觉得前面三个\n方法得消化消化，不能一下都用上，我再教你一招逃生通道，只\n要事先准备，一定能用上。",
+                "start_char_idx": 0,
+                "end_char_idx": 415,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "32fcf1f6-0644-4074-9c4b-6de650d83768": {
+            "__data__": {
+                "id_": "32fcf1f6-0644-4074-9c4b-6de650d83768",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "24",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "63e6d767-adbd-4573-96b8-448aee0b087f",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "24",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "3ac0a6239953929afef4c616165621eb3ac7dde444bdef408357310504779450",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "f6f600ed-1338-4886-9add-f73699d36a73",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "23",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "d381cef6172efc89ba38cdb56d133b5fb38fe03af6b797d4b2a07897a4d4098f",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "6999262a-627c-47a3-b21f-2b63c6c2f7d8",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "f615bde1bcb36fb871b604cf1a2fa5d0da9d58fea9f6b8b404d8875a3a710ba5",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "f37b4ca76da26a91ac6766a6e69f2123a5f625451ca926e5a58406ffe4bf9a2e",
+                "text": "你就记住这么个小技巧：外带法，让观众听完后，有个能带走的\n东西。  \n  \n比如做培训， 可以在结束后的时候， 把 PPT送给观众。 你可以说：\n“今天的分享都是干货。一会儿我把 PPT发给大家，方便大家复\n习……。” \n  \n组织复盘会，可以把复盘出的坑点和经验整理成文档，分享给其\n他人。你可以说：“这次项目，我们总结了很多坑点和经验，我\n都写在了这个文档里，稍后发给大家……。”  \n  \n你讲话的一些故事、素材，也可以让观众带走。你可以这么说：\n“这个案例，我强烈建议所有的管理者记下来，分享给你的团\n队……”。或者你可以说：“我把这个小故事做成了一个海报，方便\n你转发分享。”  \n  \n人都有囤积东西的爱好，有个可以带走的资料、笔记，虽然事后\n他不一定会看，但拿到资料的那一刻，是最有收获感的。  \n  \n总结 \n好，我们今天的课程就到这里结束了，我再敲黑板总结一下：",
+                "start_char_idx": 3,
+                "end_char_idx": 393,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "6999262a-627c-47a3-b21f-2b63c6c2f7d8": {
+            "__data__": {
+                "id_": "6999262a-627c-47a3-b21f-2b63c6c2f7d8",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "25",
+                    "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 4094061,
+                    "creation_date": "2024-01-03",
+                    "last_modified_date": "2024-01-03",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "4242e6d5-ab37-4b99-8fa3-1a0452590272",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "25",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "009ec9b584ae2a1e06e3ecb27d0dd9344f78fe68da84d356853631537d86a90b",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "32fcf1f6-0644-4074-9c4b-6de650d83768",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "24",
+                            "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 4094061,
+                            "creation_date": "2024-01-03",
+                            "last_modified_date": "2024-01-03",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "f37b4ca76da26a91ac6766a6e69f2123a5f625451ca926e5a58406ffe4bf9a2e",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "f615bde1bcb36fb871b604cf1a2fa5d0da9d58fea9f6b8b404d8875a3a710ba5",
+                "text": "当众表达怎么让人觉得有干货？我给你讲了三个方法和一个逃\n生通道。  \n  \n第一，果核：条目化，把讲话内容用“第一”“第二”“第三”这样的条\n目，一一说出来。  \n  \n第二，果肉：新信息，不同的岗位、身份，都可以找到你的独特\n视角，给其他人提供有价值的信息。  \n  \n第三，果皮：给金句，可以参考名人名言、 《金句手册》 ，也可以\n用“不是而是”句式，自己来写。  \n  \n最后，我们还有个逃生通道：外带法，给听众制造收获感。  \n这一讲里，重点还是要先把条目法练起来。希望从明天开始，你\n就能刻意地使用这个方法来讲话。  \n  \n好，赶紧去完成今天的作业吧，我是徐昆鹏，我们下一讲再见。",
+                "start_char_idx": 0,
+                "end_char_idx": 296,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "23afadd7-bb7c-4f9a-b3f6-e9040cfcaac1": {
+            "__data__": {
+                "id_": "23afadd7-bb7c-4f9a-b3f6-e9040cfcaac1",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "./data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "6cc2941f29700401bddf7b1d9312ce8d41eaf06a4ed3c3b1a1ba084886eabfc2",
+                "text": "The provided text appears to be an introduction or overview of a training program called \"当众表达训练营\" (Public Speaking Training Camp) conducted by a person named 徐昆鹏 (Xu Kunpeng). The text emphasizes the importance of public speaking and the ability to express oneself effectively in order to establish authority and influence others. It mentions that having \"人生杠杆\" (leverage in life) is crucial for having influence, and one way to achieve this is by being able to replicate one's thoughts and ideas to others. The text also mentions that while writing can have a broad impact, public speaking has a deeper impact on the audience. The training program is said to last for 21 days, during which participants will learn the art of public speaking.\n\nBased on this text, some questions that can be answered include:\n- What is the purpose of the \"当众表达训练营\" (Public Speaking Training Camp)?\n- Who is the trainer or instructor of the training program?\n- What is the importance of public speaking and expressing oneself effectively?\n- What is meant by \"人生杠杆\" (leverage in life) and how does it relate to influence?\n- How does public speaking differ from writing in terms of impact and influence?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "6622aafa-784c-4927-945f-118072f71d0e": {
+            "__data__": {
+                "id_": "6622aafa-784c-4927-945f-118072f71d0e",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "75b7fc6b-7090-4b1e-8353-f0ff3b07779e",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "771650f4359c7a45f0cec7930080433304c4235b9d5e1b709a9123d94aad2186",
+                "text": "The provided text is about a course or training program on public speaking and effective communication. The author mentions that in the first week, they will cover three basic principles of public speaking: value, attention, and connection. These principles are used to measure the effectiveness of communication. The author also mentions that they have conducted research and identified eight common problems that students face in their communication. The following two weeks will be dedicated to addressing these problems. In the second week, the author will cover three types of speeches: thematic speeches, ice-breaking conversations, and impromptu speaking, as well as teaching storytelling. In the third week, the author will address three common troubles in public speaking: nervousness, difficulty in joining a conversation, and unexpected situations. Additionally, the author will teach how to build a personal brand through public speaking.\n\nThis text can answer questions such as:\n- What are the three basic principles of public speaking?\n- What are some common problems that people face in their communication?\n- How can I improve my storytelling skills?\n- How can I overcome nervousness in public speaking?\n- How can I handle unexpected situations during a presentation?\n- How can I build a personal brand through public speaking?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7fc44253-7468-4b91-8048-3d62c7108808": {
+            "__data__": {
+                "id_": "7fc44253-7468-4b91-8048-3d62c7108808",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "cf340970-cdbe-41cb-aa5a-a5a9efc36899",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "5b07d2fff5f12b0b7e5df6457b14eee4352c6676c86e3b296e07778c0a885535",
+                "text": "The provided text is about a training program that focuses on how to effectively communicate and express value in the workplace. It emphasizes the importance of delivering information that is valuable to the audience rather than simply putting on a performance. The text mentions that the audience's real concern is understanding the speaker's message and finding answers within the information provided. The goal of the training program is to teach participants how to speak in a clear and organized manner, highlighting the value of the information being presented. \n\nSome questions that this text can answer include:\n- What is the purpose of the training program?\n- How can one effectively communicate value in the workplace?\n- What are the challenges faced by the audience when listening to a speaker?\n- What is the structure of the training program and what will be covered in the first three sessions?\n- What is the significance of the \"fruit core model\" mentioned in the text?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "146cc26b-c562-4794-8895-eaa5843f188d": {
+            "__data__": {
+                "id_": "146cc26b-c562-4794-8895-eaa5843f188d",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "f2e15899-7de2-4d2c-ab14-a972a42f2a98",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "6df469c4c4f1efb55b0f9d5eabe14e6747b009a3ec4f95b35750ce64dbfe77aa",
+                "text": "The provided text appears to be a lecture or presentation about the importance of effectively expressing oneself in speech or presentations. It introduces the concept of \"fruit layers\" as a framework for organizing and delivering a speech. The three layers mentioned are \"fruit core\" (providing a structure for the speech), \"fruit flesh\" (providing specific and substantial information), and \"fruit peel\" (highlighting memorable quotes or takeaways for the audience). The text suggests that the following discussion will delve into each layer in detail.\n\nBased on this information, some questions that this text can potentially answer include:\n- How can one deliver a speech that is clear and well-organized?\n- What are some strategies for incorporating new and substantial information into a speech?\n- How can memorable quotes or takeaways be effectively used to enhance a speech or presentation?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "5439ae2d-a8a5-4c0c-9cdf-9270abdb3183": {
+            "__data__": {
+                "id_": "5439ae2d-a8a5-4c0c-9cdf-9270abdb3183",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "2ffadbfc-5e35-44c9-a647-e47128b97a1d",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "a1f35f6076657ec695c5971a5d3c91ee84fac9667e8fcbc8ce8ac6f77d698402",
+                "text": "The provided text appears to be a transcript or description of a video or audio presentation featuring two entrepreneurs introducing themselves. The text mentions that the first entrepreneur's introduction can be heard at the 4:04 mark of a video, while the second entrepreneur's introduction can be heard at the 5:54 mark.\n\nBased on this information, the text can provide insights into the speaking abilities and investment appeal of the two entrepreneurs. It may answer questions such as: \n- How do the entrepreneurs present themselves?\n- What are their communication skills like?\n- How do they highlight their value proposition?\n- Which entrepreneur seems more persuasive or compelling?\n- Who would be a more attractive investment opportunity?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "f79bb874-2f39-493e-a6ed-9d6099e823e8": {
+            "__data__": {
+                "id_": "f79bb874-2f39-493e-a6ed-9d6099e823e8",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "8f51210b-6c70-4f7b-b389-db9a619ab8bb",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "a511eb45d0b2aae2641a3d92e6279ae0a38b8d1fdacd553c14833a0acebcc6b3",
+                "text": "The provided text is about comparing two introductions and determining which one is clearer and more professional. The first person's introduction is highlighted as being more memorable, as they discussed four key points. The text does not explicitly state what these key points are. \n\nBased on the information provided, some questions that this text can answer include:\n- What is the topic of the introductions being compared?\n- How many key points did the first person discuss?\n- What are some qualities of a clear and professional introduction?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "b99d45eb-008c-4b31-a05b-615de8cddf3d": {
+            "__data__": {
+                "id_": "b99d45eb-008c-4b31-a05b-615de8cddf3d",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "5cce0a53-6d7d-41d1-ad65-a03457ae2364",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "64a52640fb35dacfb56c7c54405b1c1f77f48770582109059a3f13bb77b15a40",
+                "text": "The provided text is about a method called \"条目法\" (entry method) that can be used to present information clearly and effectively. It involves organizing the content into a hierarchical structure and labeling each item with \"第一\" (first), \"第二\" (second), etc. This method is compared to feeding a child, where each level of information is presented clearly and easily understood.\n\nThe text also mentions the example of a second entrepreneur who uses this method in their speech. The entrepreneur talks about their business project, which is an electronic device called \"文语通\" (Wenyu Tong) that helps deaf and mute people convert text and speech. The entrepreneur mentions using advanced technologies such as handwriting recognition, speech synthesis, and speech recognition.\n\nBased on this text, some questions that can be answered include:\n- What is the \"条目法\" (entry method) and how does it work?\n- How can the \"条目法\" be used to present information clearly?\n- What is the example of the second entrepreneur's business project?\n- What is the purpose of the electronic device \"文语通\" (Wenyu Tong)?\n- What advanced technologies are used in the \"文语通\" device?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "03a25897-ff00-4500-892c-6e31ccea10d4": {
+            "__data__": {
+                "id_": "03a25897-ff00-4500-892c-6e31ccea10d4",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "a4f022bd-4759-466d-8abc-389c1c7ec73e",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "deb10953b4f553b795c7030bb6a7bbfa115d3259909136eda43bf61238f16066",
+                "text": "The provided text is about a handheld computer called \"Wen Yu Tong\" that can convert spoken language into text for deaf and mute individuals, allowing them to understand what others are saying. It can also convert the handwritten expressions of deaf and mute individuals into sound for normal individuals to understand. This creates an information platform for communication between deaf and mute individuals and normal individuals. The text mentions that this product is the first of its kind in China and has independent intellectual property rights. It also highlights the market demand for services catering to the large population of deaf and mute individuals in China, which is estimated to be 20.57 million. Additionally, the text mentions the potential for this product to be adapted for other disabilities, such as a speech command system for blind individuals or a text reader.\n\nBased on the text, some questions that can be answered include:\n- What is the purpose of the handheld computer \"Wen Yu Tong\"?\n- How does \"Wen Yu Tong\" facilitate communication between deaf and mute individuals and normal individuals?\n- What is the market demand for products catering to the needs of deaf and mute individuals in China?\n- What is the potential for \"Wen Yu Tong\" to be adapted for other disabilities?\n- What are the unique features or advantages of \"Wen Yu Tong\" compared to other similar products?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "550abc8d-8906-4cd7-be39-61a25196f3f6": {
+            "__data__": {
+                "id_": "550abc8d-8906-4cd7-be39-61a25196f3f6",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "10e0a2a2-ebce-4d19-8ff7-d91526f6ac5a",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "d574ac516bf9849c0f6b3a89b8a85b95938dcb52d5e074790344840d3af79036",
+                "text": "The provided text is discussing the challenge of conveying a lot of information in a short amount of time, particularly in an audio format. It mentions that while reading the information may be fine, it can sound dry and the main points may not stand out when spoken. The text then goes on to mention three main points that can be derived from the information: market demand, strong product functionality, and advanced technology. \n\nBased on this information, the text can potentially answer questions such as:\n- How can one effectively convey a lot of information in a short audio presentation?\n- What are some challenges of presenting information verbally compared to in written form?\n- What are some key factors that can be derived from the given information?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "cc24d2eb-5d06-4e27-aa72-03409bf80236": {
+            "__data__": {
+                "id_": "cc24d2eb-5d06-4e27-aa72-03409bf80236",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "738a4a4d-97e4-4856-bdcc-d248b81a6b66",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "fc1109874bce928f7d9be5fcf273de48bd4c61978c1f5a49b36eed6753e329aa",
+                "text": "The provided text is about improving the clarity and structure of expressing ideas in a speech or presentation. It gives an example of a speaker who initially presented a jumbled message but then reorganized it to have a clear structure. The text also mentions a real-life example of a manager in a construction company giving a speech. \n\nSome questions that this text can answer include:\n- How can one improve the clarity of expressing ideas in a speech?\n- What are some techniques for organizing information in a presentation?\n- What are the benefits of having a clear structure in a speech or presentation?\n- Can you provide an example of a real-life situation where a speaker improved their message by reorganizing it?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "d1259eee-c8be-4892-9b71-1afadb71c170": {
+            "__data__": {
+                "id_": "d1259eee-c8be-4892-9b71-1afadb71c170",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "9ca615b7-e9e9-4f3d-b3e8-18e9abaa5d08",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "e3c8ca391ef5ae29a73157691038d20ce5d7e8bf1649f093435c6b6ac941b11d",
+                "text": "The provided text is about a speech or presentation that discusses three dimensions of work. The first dimension is the importance of upgrading the company's qualifications. The second dimension is the need to have a service mindset and build connections. The third dimension is the use of VR technology for marketing. The text suggests that by organizing these dimensions into bullet points, the speaker can effectively convey their views and make their subordinates feel that the work deployment is competent. \n\nBased on this information, some questions that this text can answer include:\n- What are the three dimensions of work discussed in the speech?\n- Why is it important to upgrade the company's qualifications?\n- How can having a service mindset help in building connections?\n- How can VR technology be used for marketing purposes?\n- How can organizing information into bullet points improve communication effectiveness?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "17b92af2-c793-4468-8abe-dd3c7ca6e245": {
+            "__data__": {
+                "id_": "17b92af2-c793-4468-8abe-dd3c7ca6e245",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "9b106df7-699d-4cdd-bb8e-c5b040d7f299",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "4367dfc143c1e0e4739fde5012a64cb8e1e5aae3183ee3a880bac9569ee66607",
+                "text": "The provided text is about a project meeting where the project manager asks a team member, Xiao Wang, about the discussions in a previous meeting with the procurement department. Xiao Wang provides some information about the meeting, mentioning issues related to the lack of registration for samples, incomplete recording of small products during inventory, and the absence of intermediate approval for purchase requests. The text also mentions that Xiao Wang's response was not well-structured and difficult to follow. However, it suggests that if Xiao Wang had organized his response into three main points, it would have been more effective. \n\nBased on this text, some questions that can be answered include:\n- What issues were discussed in the procurement department's meeting?\n- What are the problems related to the approval process for purchase requests?\n- What are the issues with the registration of samples and small products in the company's system?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "a46f3875-9122-41d5-93bc-41a1154ffb09": {
+            "__data__": {
+                "id_": "a46f3875-9122-41d5-93bc-41a1154ffb09",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "b51df590-8521-404a-9d05-b28d0bc3d817",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "011e5701a03930a604f1ecc615c50233b03b6e57a107a5e605b4a574cd7cb6a4",
+                "text": "The provided text is about a topic related to communication skills in the workplace. It discusses the importance of adding value to speeches or presentations by using a structured approach and providing new and valuable information. The text suggests using a method called \"条目法\" (itemization method) to organize speeches and increase their value. It also mentions the need to avoid discussing things that the audience already knows, as it lacks new information and value. \n\nBased on this text, some questions that can be answered include:\n- What is the \"条目法\" (itemization method) and how can it be used to structure speeches?\n- How can speeches or presentations be made more valuable?\n- Why is it important to provide new and valuable information in speeches?\n- What are some common mistakes to avoid when delivering speeches or presentations?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "25601439-19fc-4e25-8811-3ad25ecfad79": {
+            "__data__": {
+                "id_": "25601439-19fc-4e25-8811-3ad25ecfad79",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "5fc6ea6c-9991-44ac-b996-febb80924d1e",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "1164760c611f424dee0d7ee6f74533c1dfe30e26bcbcf21a54b22178dad4848d",
+                "text": "The provided text is about the importance of adding new information to a speech or presentation in order to make it more impactful and understandable. It gives an example of how leaders often emphasize the importance of focusing on customer needs rather than just pursuing performance results. However, the text suggests that adding new information can make a significant difference in how the message is perceived. It provides an example of how mentioning external pressures and competition can make the speech more meaningful and help subordinates understand the leader's point. \n\nThis text can answer questions such as:\n- Why is it important to add new information to a speech or presentation?\n- How can adding new information make a speech more impactful?\n- What are some examples of new information that can be added to a speech?\n- How can adding new information help subordinates understand the message better?\n- Where can one find new information to add to their speech or presentation?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "817f797e-8a41-43ad-9e30-a66208cfee64": {
+            "__data__": {
+                "id_": "817f797e-8a41-43ad-9e30-a66208cfee64",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "a9a20d0a-52b8-4621-84e8-853219891127",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "a073c482ba9f0a11a827c9b45c7d3d0e44f585701f0a9b5cabd505190f98d248",
+                "text": "The provided text is about the importance of sharing information with employees during a speech or presentation as a company manager. It emphasizes that managers have access to information that employees may not have, such as the company's strategic direction, information from other departments, background and goals of tasks, industry trends, and market conditions. The text suggests that when speaking to employees, managers should consciously share this information to provide a broader perspective and context.\n\nSome questions that this text can answer include:\n- Why is it important for managers to share information with employees during speeches or presentations?\n- What kind of information should managers share with employees?\n- How can sharing information with employees enhance their understanding and performance?\n- How can managers obtain the necessary information to share with employees?\n- How can sharing information from other departments or external experts impact employees' perception of performance or results?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7203be26-a38c-4083-a907-a6e621be8394": {
+            "__data__": {
+                "id_": "7203be26-a38c-4083-a907-a6e621be8394",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "e9a95138-7f73-458f-91de-4b3f7fc74944",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "25b6fe9fa8ab5eeaa37ab3688b31fcc602e2c922b883f6c2f138330c4f7ca64f",
+                "text": "The provided text is about comparing the performance of different departments within a company. It discusses how one department achieved a goal that was twice as high as another department's goal. The text also mentions the importance of having information advantages when reporting to superiors or speaking to colleagues. It suggests that individuals can focus on providing background information, feedback from frontline colleagues, and user situations when making reports. Additionally, the text provides an example of a marketing discussion where the suggestion is made to collaborate with a specific convenience store chain based on market research indicating that it has the highest number of stores nationwide.\n\nBased on this text, some questions that can be answered include:\n- How does the performance of one department compare to another department within the company?\n- What are some strategies for reporting to superiors or speaking to colleagues without information advantages?\n- What factors should be considered when selecting convenience stores for product promotion?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "ee5fe855-ac98-4ddf-bb4e-9e6a2aa5f308": {
+            "__data__": {
+                "id_": "ee5fe855-ac98-4ddf-bb4e-9e6a2aa5f308",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "9313f5a1-c1d4-4e28-ae81-24ddaed5c27a",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "15f091ba313124e79b09c5b46f1da69c523623033fa3212f4712360650ae7b40",
+                "text": "The provided text is about the value of information and how it can be used in various contexts. It discusses the importance of valuable information in decision-making processes, such as determining which company to collaborate with for product promotion. It also highlights the significance of user-related information and stories in communication, as they can make a speech more impactful. The text provides examples of valuable information, such as the difference in satisfaction levels for a training course in different locations and the reasons behind it. \n\nBased on the text, some questions that can be answered include:\n- How can valuable information influence decision-making processes?\n- What types of information are considered valuable in communication?\n- How can user-related information and stories enhance a speech or presentation?\n- What are some examples of valuable information in different industries or contexts?\n- How can valuable information from customers' perspectives benefit other departments or areas of work?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "67583082-ac70-4f10-be3d-16b47733cc6f": {
+            "__data__": {
+                "id_": "67583082-ac70-4f10-be3d-16b47733cc6f",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "8ad74ad3-81d8-44b0-8778-5c3344891aa1",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "21cb134040ea340c7843a7f281e434144b8909f7dead3cf257ca8bc57839ed6d",
+                "text": "The provided text appears to be discussing the importance of conveying valuable information in presentations or speeches. It emphasizes the need to provide new and relevant information to engage the audience and make the content more impactful. The text suggests that discussing industry trends, transferring experiences from related industries, and sharing personal research findings can be effective ways to present new information. Additionally, it mentions the concept of \"gold nuggets\" or memorable quotes that can be captured by the audience through taking photos of presentation slides. \n\nBased on this information, some questions that this text can answer include:\n- How can one make their presentations or speeches more valuable and impactful?\n- What are some strategies for conveying new and relevant information to the audience?\n- Why is it important to provide \"gold nuggets\" or memorable quotes in presentations?\n- How can the use of visuals, such as presentation slides, enhance the delivery of information?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7bf13074-86f0-4ea8-ab06-e0349b2f738c": {
+            "__data__": {
+                "id_": "7bf13074-86f0-4ea8-ab06-e0349b2f738c",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "ebb305d6-c39f-4488-805a-33d14f5efb6c",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "324c940c8ba81efc1f2004f37ff78053833962235a957aa8b17b34cbe67b2fbb",
+                "text": "The provided text is about the importance of using impactful quotes or \"golden sentences\" in speeches or presentations. It suggests three methods for finding such quotes: accumulating famous quotes from books, referring to a mysterious notebook of a business author, and collecting quotes from social media platforms. The text also provides tips on how to introduce quotes effectively and highlights the value they can bring to a speech or presentation.\n\nBased on this text, some questions that can be answered include:\n- What are some ways to find impactful quotes for speeches or presentations?\n- How can one introduce quotes in a speech without feeling awkward?\n- What is the value of using impactful quotes in a speech or presentation?\n- How can quotes help to make a speech more engaging and valuable to the audience?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "1e6957c0-8712-443e-95ae-2512a15288d7": {
+            "__data__": {
+                "id_": "1e6957c0-8712-443e-95ae-2512a15288d7",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "8292af99-067e-4a60-a889-3048cb5aa5d7",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "50ffbdf5124484dd4321b49a333a149d55dfebe9132623467c181c233822b6c9",
+                "text": "The provided text is about the importance of using simple language for users and keeping complexity for oneself. It also introduces a tool called the \"Golden Sentence Handbook\" which contains over 100 golden sentences categorized into eight different scenarios. The text suggests using this handbook as a resource library for easily accessing and using these golden sentences.\n\nSome questions that this text can answer include:\n- What is the importance of using simple language for users?\n- What is the purpose of the Golden Sentence Handbook?\n- How many golden sentences are included in the handbook?\n- How are the golden sentences categorized?\n- How can the Golden Sentence Handbook be used in various scenarios?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "28951f70-61a1-4922-8827-b1302449b7ce": {
+            "__data__": {
+                "id_": "28951f70-61a1-4922-8827-b1302449b7ce",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "d5b9dd61-8fc0-4980-a22a-de84b03d6daf",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "5ee43fe059b6f50f75d6f75f95858523acb6add5a4be257590e1e82eb0963dde",
+                "text": "The provided text appears to be from a document titled \"金句手册\" (Golden Sentences Handbook) and it discusses various strategies for expressing and highlighting valuable insights in a professional setting. It emphasizes the importance of being able to break down big goals into smaller tasks and suggests that one should strive to be a solution rather than a problem. The text also introduces a method called the \"不是而是\" (not...but...) technique, which involves creating original sentences to provide new perspectives and insights. \n\nBased on this text, some questions that can be answered include:\n- How can one effectively express and highlight valuable insights in a professional setting?\n- What is the significance of being able to break down big goals into smaller tasks?\n- How can one gain respect from others by being a solution rather than a problem?\n- What is the \"不是而是\" technique and how can it be used to provide new perspectives and insights?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "c4a0fa7e-3cb6-4b43-bc68-e9865f658df1": {
+            "__data__": {
+                "id_": "c4a0fa7e-3cb6-4b43-bc68-e9865f658df1",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "0a19ff6d-f7e6-4bf3-93a0-65b1480b4b9e",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "0f11cab9f75ce65d75b8f9c9b917afa6e50fe2b95a6206cb83157649c61d3286",
+                "text": "The provided text is about a discussion on the use of PowerPoint presentations (PPT) in a department's work meetings. The speaker highlights a negative trend where employees focus more on creating visually appealing PPTs rather than expressing their thoughts and ideas about the work. The speaker suggests using a different approach by using the sentence structure \"不是……而是……\" (not...but...) to emphasize the importance of focusing on the substance of the work rather than the presentation format. This approach is believed to create a more impactful and valuable atmosphere in meetings.\n\nSome questions that this text can answer include:\n- What is the traditional approach to work presentations in the department?\n- What negative trend is the speaker highlighting regarding PPTs?\n- How can the sentence structure \"不是……而是……\" be used to address this issue?\n- What is the suggested alternative to using PPTs in meetings?\n- How can using this approach create a more valuable and impactful atmosphere in meetings?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "058c5552-decb-4969-ad46-1efbb103a656": {
+            "__data__": {
+                "id_": "058c5552-decb-4969-ad46-1efbb103a656",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "f8cf901c-03bd-4f1b-80d8-e4e3f1211d3b",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "adf710456b4ecbe5c4b12ab9fd2efb4c989eba17a3507e8ee2172cea7116a28d",
+                "text": "The provided text discusses a method called the \"不是而是\" (not but) technique, which involves finding new perspectives or viewpoints to express ideas more effectively. The text emphasizes the importance of avoiding the common mistake of using a false \"不是而是\" statement, where the second part of the statement is already well-known or unnecessary. Instead, the text suggests reversing the statement to bring new insights or ideas. The text also mentions that the opposite of truth is not necessarily an error, but rather another truth. Additionally, the text briefly mentions the \"外带法\" (takeaway method) as an additional technique for effective communication.\n\nBased on this text, some questions that can be answered include:\n- What is the \"不是而是\" technique and how does it work?\n- What is the common mistake to avoid when using the \"不是而是\" technique?\n- How can reversing a statement bring new insights or ideas?\n- What is the concept of the opposite truth mentioned in the text?\n- What is the \"外带法\" technique and how can it be applied in communication?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "4e3027dd-27c1-4498-aab0-0d2b7a604116": {
+            "__data__": {
+                "id_": "4e3027dd-27c1-4498-aab0-0d2b7a604116",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "63e6d767-adbd-4573-96b8-448aee0b087f",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "67ad33a855462f5bf5174955fd19c64c93f9baba35909ce87322659856a794c8",
+                "text": "The provided text is about a technique called the \"takeaway method\" that can be used to engage and provide value to an audience. The text suggests various ways to implement this technique, such as giving the audience a copy of the presentation slides, sharing a document summarizing key points and experiences, or providing stories or materials that the audience can take away and share with others. The text emphasizes that even if the audience may not necessarily review the materials later, the act of receiving them creates a sense of accomplishment. \n\nBased on this text, some questions that can be answered include:\n- What is the takeaway method and how can it be used to engage an audience?\n- What are some examples of materials or resources that can be given to an audience as takeaways?\n- How can the takeaway method be applied in different contexts, such as training sessions or project retrospectives?\n- What are the potential benefits of using the takeaway method in presentations or discussions?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "425870f6-98ce-4a9e-83b2-4b0fadbbc27a": {
+            "__data__": {
+                "id_": "425870f6-98ce-4a9e-83b2-4b0fadbbc27a",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "4242e6d5-ab37-4b99-8fa3-1a0452590272",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "3612c6e3b6ce494d2034920f26ce0ce6e2c5049d16a730c5b3c29f3d2ce995ed",
+                "text": "The provided text is about techniques for effective public speaking and how to make people perceive it as valuable. It suggests three methods: \"果核\" (core), which involves presenting the speech content in a structured manner using numbered items; \"果肉\" (flesh), which emphasizes providing unique perspectives and valuable information from different positions and identities; and \"果皮\" (peel), which involves using memorable quotes or creating impactful statements. Additionally, it mentions a \"逃生通道\" (escape route) called the \"外带法\" (takeaway method), which aims to create a sense of achievement for the audience. The text encourages the reader to practice the \"条目法\" (itemization method) as a key focus. \n\nBased on this text, some questions that can be answered include:\n- What are some techniques for making public speaking more valuable?\n- How can I structure my speech using numbered items?\n- How can I provide unique perspectives and valuable information in my speech?\n- How can I use memorable quotes or impactful statements in my speech?\n- What is the \"外带法\" (takeaway method) and how can it be used in public speaking?\n- How can I practice the \"条目法\" (itemization method) to improve my public speaking skills?",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        }
+    },
+    "docstore/ref_doc_info": {
+        "./data/01讲 价值感：怎么表达才能凸显干货.pdf": {
+            "node_ids": [
+                "3634ce3d-32b1-4bef-8252-a0971c403e36",
+                "23afadd7-bb7c-4f9a-b3f6-e9040cfcaac1"
+            ],
+            "metadata": {
+                "page_label": "1",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "75b7fc6b-7090-4b1e-8353-f0ff3b07779e": {
+            "node_ids": [
+                "bda5fd70-4946-4a49-89fe-b0b8727e39b6",
+                "6622aafa-784c-4927-945f-118072f71d0e"
+            ],
+            "metadata": {
+                "page_label": "2",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "cf340970-cdbe-41cb-aa5a-a5a9efc36899": {
+            "node_ids": [
+                "e58f2b68-2590-44a4-8f9e-84cfc78b7ee2",
+                "7fc44253-7468-4b91-8048-3d62c7108808"
+            ],
+            "metadata": {
+                "page_label": "3",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "f2e15899-7de2-4d2c-ab14-a972a42f2a98": {
+            "node_ids": [
+                "4a0772a0-5a8c-4d9f-abb3-94ac42815420",
+                "146cc26b-c562-4794-8895-eaa5843f188d"
+            ],
+            "metadata": {
+                "page_label": "4",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "2ffadbfc-5e35-44c9-a647-e47128b97a1d": {
+            "node_ids": [
+                "0ce66cc2-06ab-4aa5-b8b7-c0dd9c06d7c6",
+                "5439ae2d-a8a5-4c0c-9cdf-9270abdb3183"
+            ],
+            "metadata": {
+                "page_label": "5",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "8f51210b-6c70-4f7b-b389-db9a619ab8bb": {
+            "node_ids": [
+                "8b69365b-6fb3-480e-94a2-793ecc211665",
+                "f79bb874-2f39-493e-a6ed-9d6099e823e8"
+            ],
+            "metadata": {
+                "page_label": "6",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "5cce0a53-6d7d-41d1-ad65-a03457ae2364": {
+            "node_ids": [
+                "8ddff13e-3c66-4378-a4ea-535da8a4c588",
+                "b99d45eb-008c-4b31-a05b-615de8cddf3d"
+            ],
+            "metadata": {
+                "page_label": "7",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "a4f022bd-4759-466d-8abc-389c1c7ec73e": {
+            "node_ids": [
+                "71ac2b10-a3e9-4c46-a1ca-6c40ea44ef38",
+                "03a25897-ff00-4500-892c-6e31ccea10d4"
+            ],
+            "metadata": {
+                "page_label": "8",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "10e0a2a2-ebce-4d19-8ff7-d91526f6ac5a": {
+            "node_ids": [
+                "9be2794e-9a93-49f1-bb00-948b973ab83b",
+                "550abc8d-8906-4cd7-be39-61a25196f3f6"
+            ],
+            "metadata": {
+                "page_label": "9",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "738a4a4d-97e4-4856-bdcc-d248b81a6b66": {
+            "node_ids": [
+                "1eeab789-fcdd-4fba-91e7-f7a8f0bf291f",
+                "cc24d2eb-5d06-4e27-aa72-03409bf80236"
+            ],
+            "metadata": {
+                "page_label": "10",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "9ca615b7-e9e9-4f3d-b3e8-18e9abaa5d08": {
+            "node_ids": [
+                "16f6f7ca-3885-4fe9-952b-ecdf118729f8",
+                "d1259eee-c8be-4892-9b71-1afadb71c170"
+            ],
+            "metadata": {
+                "page_label": "11",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "9b106df7-699d-4cdd-bb8e-c5b040d7f299": {
+            "node_ids": [
+                "45c41164-7542-4363-8e1d-559646e61cb1",
+                "17b92af2-c793-4468-8abe-dd3c7ca6e245"
+            ],
+            "metadata": {
+                "page_label": "12",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "b51df590-8521-404a-9d05-b28d0bc3d817": {
+            "node_ids": [
+                "c2470a4b-d830-49ba-92a1-03a589f07caf",
+                "a46f3875-9122-41d5-93bc-41a1154ffb09"
+            ],
+            "metadata": {
+                "page_label": "13",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "5fc6ea6c-9991-44ac-b996-febb80924d1e": {
+            "node_ids": [
+                "ce9349b3-ce8b-4ad7-ae1b-f92450017b08",
+                "25601439-19fc-4e25-8811-3ad25ecfad79"
+            ],
+            "metadata": {
+                "page_label": "14",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "a9a20d0a-52b8-4621-84e8-853219891127": {
+            "node_ids": [
+                "7a0fe89a-f6fb-415e-82a0-61006753bcb5",
+                "817f797e-8a41-43ad-9e30-a66208cfee64"
+            ],
+            "metadata": {
+                "page_label": "15",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "e9a95138-7f73-458f-91de-4b3f7fc74944": {
+            "node_ids": [
+                "1c57a6c5-352b-4166-9c4c-173515398527",
+                "7203be26-a38c-4083-a907-a6e621be8394"
+            ],
+            "metadata": {
+                "page_label": "16",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "9313f5a1-c1d4-4e28-ae81-24ddaed5c27a": {
+            "node_ids": [
+                "0bc92f3f-f823-45e7-8e50-b8b8de3f2d2e",
+                "ee5fe855-ac98-4ddf-bb4e-9e6a2aa5f308"
+            ],
+            "metadata": {
+                "page_label": "17",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "8ad74ad3-81d8-44b0-8778-5c3344891aa1": {
+            "node_ids": [
+                "9162ef2b-8bd2-4ce7-aa30-77cc052b8d8e",
+                "67583082-ac70-4f10-be3d-16b47733cc6f"
+            ],
+            "metadata": {
+                "page_label": "18",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "ebb305d6-c39f-4488-805a-33d14f5efb6c": {
+            "node_ids": [
+                "e897d791-dca1-4ad8-99c7-be8bde32d06b",
+                "7bf13074-86f0-4ea8-ab06-e0349b2f738c"
+            ],
+            "metadata": {
+                "page_label": "19",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "8292af99-067e-4a60-a889-3048cb5aa5d7": {
+            "node_ids": [
+                "c9be6020-75e3-48d2-ba59-618c806b48e6",
+                "1e6957c0-8712-443e-95ae-2512a15288d7"
+            ],
+            "metadata": {
+                "page_label": "20",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "d5b9dd61-8fc0-4980-a22a-de84b03d6daf": {
+            "node_ids": [
+                "20757933-f680-474f-b068-8dcf96ad892f",
+                "28951f70-61a1-4922-8827-b1302449b7ce"
+            ],
+            "metadata": {
+                "page_label": "21",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "0a19ff6d-f7e6-4bf3-93a0-65b1480b4b9e": {
+            "node_ids": [
+                "2cd0a469-cce8-402f-8cd7-29d4bb71308a",
+                "c4a0fa7e-3cb6-4b43-bc68-e9865f658df1"
+            ],
+            "metadata": {
+                "page_label": "22",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "f8cf901c-03bd-4f1b-80d8-e4e3f1211d3b": {
+            "node_ids": [
+                "f6f600ed-1338-4886-9add-f73699d36a73",
+                "058c5552-decb-4969-ad46-1efbb103a656"
+            ],
+            "metadata": {
+                "page_label": "23",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "63e6d767-adbd-4573-96b8-448aee0b087f": {
+            "node_ids": [
+                "32fcf1f6-0644-4074-9c4b-6de650d83768",
+                "4e3027dd-27c1-4498-aab0-0d2b7a604116"
+            ],
+            "metadata": {
+                "page_label": "24",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "4242e6d5-ab37-4b99-8fa3-1a0452590272": {
+            "node_ids": [
+                "6999262a-627c-47a3-b21f-2b63c6c2f7d8",
+                "425870f6-98ce-4a9e-83b2-4b0fadbbc27a"
+            ],
+            "metadata": {
+                "page_label": "25",
+                "file_name": "01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_path": "data/01讲 价值感：怎么表达才能凸显干货.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4094061,
+                "creation_date": "2024-01-03",
+                "last_modified_date": "2024-01-03",
+                "last_accessed_date": "2024-01-09"
+            }
+        }
+    }
+}

@@ -1,0 +1,170 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# <a href="https://colab.research.google.com/github/run-llama/llama_index/blob/main/docs/examples/vector_stores/pinecone_metadata_filter.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+# # Pinecone Vector Store - Metadata Filter
+
+# If you're opening this Notebook on colab, you will probably need to install LlamaIndex 🦙.
+
+#('pip install llama-index')
+
+import logging
+import sys
+import os
+
+logging.basicConfig(stream=sys.stdout, level=logging.INFO)
+logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
+
+# Build a Pinecone Index and connect to it
+
+import pinecone
+
+api_key = os.environ["PINECONE_API_KEY"]
+pinecone.init(api_key=api_key, environment="us-west4-gcp-free")
+
+# dimensions are for text-embedding-ada-002
+pinecone.create_index(
+    "quickstart-index", dimension=1536, metric="euclidean", pod_type="p1"
+)
+
+pinecone_index = pinecone.Index("quickstart-index")
+
+# Build the PineconeVectorStore and VectorStoreIndex
+
+from llama_index import VectorStoreIndex, StorageContext
+from llama_index.vector_stores import PineconeVectorStore
+
+from llama_index.schema import TextNode
+
+nodes = [
+    TextNode(
+        text="The Shawshank Redemption",
+        metadata={
+            "author": "Stephen King",
+            "theme": "Friendship",
+            "year": 1994,
+        },
+    ),
+    TextNode(
+        text="The Godfather",
+        metadata={
+            "director": "Francis Ford Coppola",
+            "theme": "Mafia",
+            "year": 1972,
+        },
+    ),
+    TextNode(
+        text="Inception",
+        metadata={
+            "director": "Christopher Nolan",
+            "theme": "Fiction",
+            "year": 2010,
+        },
+    ),
+    TextNode(
+        text="To Kill a Mockingbird",
+        metadata={
+            "author": "Harper Lee",
+            "theme": "Mafia",
+            "year": 1960,
+        },
+    ),
+    TextNode(
+        text="1984",
+        metadata={
+            "author": "George Orwell",
+            "theme": "Totalitarianism",
+            "year": 1949,
+        },
+    ),
+    TextNode(
+        text="The Great Gatsby",
+        metadata={
+            "author": "F. Scott Fitzgerald",
+            "theme": "The American Dream",
+            "year": 1925,
+        },
+    ),
+    TextNode(
+        text="Harry Potter and the Sorcerer's Stone",
+        metadata={
+            "author": "J.K. Rowling",
+            "theme": "Fiction",
+            "year": 1997,
+        },
+    ),
+]
+
+import openai
+
+openai.api_key = "sk-..."
+
+vector_store = PineconeVectorStore(
+    pinecone_index=pinecone_index, namespace="test_05_14"
+)
+storage_context = StorageContext.from_defaults(vector_store=vector_store)
+index = VectorStoreIndex(nodes, storage_context=storage_context)
+
+# Define metadata filters
+
+from llama_index.vector_stores.types import (
+    MetadataFilter,
+    MetadataFilters,
+    FilterOperator,
+)
+
+filters = MetadataFilters(
+    filters=[
+        MetadataFilter(key="theme", operator=FilterOperator.EQ, value="Mafia"),
+    ]
+)
+
+# Retrieve from vector store with filters
+
+retriever = index.as_retriever(filters=filters)
+retriever.retrieve("What is inception about?")
+
+# Multiple Metadata Filters with `AND` condition
+
+from llama_index.vector_stores.types import (
+    FilterOperator,
+    FilterCondition,
+)
+
+filters = MetadataFilters(
+    filters=[
+        MetadataFilter(key="theme", value="Fiction"),
+        MetadataFilter(key="year", value=1997, operator=FilterOperator.GT),
+    ],
+    condition=FilterCondition.AND,
+)
+
+retriever = index.as_retriever(filters=filters)
+retriever.retrieve("Harry Potter?")
+
+# Multiple Metadata Filters with `OR` condition
+
+from llama_index.vector_stores.types import (
+    FilterOperator,
+    FilterCondition,
+)
+
+filters = MetadataFilters(
+    filters=[
+        MetadataFilter(key="theme", value="Fiction"),
+        MetadataFilter(key="year", value=1997, operator=FilterOperator.GT),
+    ],
+    condition=FilterCondition.OR,
+)
+
+retriever = index.as_retriever(filters=filters)
+retriever.retrieve("Harry Potter?")
+
+# Use keyword arguments specific to pinecone
+
+retriever = index.as_retriever(
+    vector_store_kwargs={"filter": {"theme": "Mafia"}}
+)
+retriever.retrieve("What is inception about?")
+

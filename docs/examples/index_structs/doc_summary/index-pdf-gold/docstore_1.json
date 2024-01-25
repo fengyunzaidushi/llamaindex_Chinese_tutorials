@@ -1,0 +1,1345 @@
+{
+    "docstore/metadata": {
+        "./data-pdf/矿产核电报告英文_p11_20.pdf": {
+            "doc_hash": "5d17dbc4825d2d4f28e4c54b615660325d1eae984a8e71a8416729d739647ebf"
+        },
+        "8fb126b0-7d67-4850-81ba-e6f95c0d8a7a": {
+            "doc_hash": "93ede26e3b89b218dc70691d7240b248e93dced0b1b17cf9c420a2be54f813ee"
+        },
+        "49a93b28-1906-4f02-9877-c923d22778d4": {
+            "doc_hash": "d0a9b079ce2f7c353023dfd4991c62b4187ef274c2ae9c26ba3d725d75479e74"
+        },
+        "f7a3935d-0069-472f-870e-2916a48294a7": {
+            "doc_hash": "3626ff7076c995dcfcf71e760833c8a19d89dd650e86d6c7be92c625911effd2"
+        },
+        "c582d44b-f308-4a10-87c6-420267f91f6b": {
+            "doc_hash": "e2b2d45d295924075503f7d1496efefc2999138c664e0072ecb271087e9d06b5"
+        },
+        "5e5f3409-93dd-4f35-a39a-c9f354cc19b9": {
+            "doc_hash": "b5dc1147171187325ff6da4b7dbc7bcffe41e76893505ecbb0873841d55c7bd3"
+        },
+        "0a407ef8-c863-4f0b-bbc1-2b5912e7cf66": {
+            "doc_hash": "4f1b528029d9ccf43779c1f50687d8f74ac7e32ac49c77107a6bf3f26e956bc5"
+        },
+        "ddb8f33d-1d27-4a82-a418-ef4cfa982dfd": {
+            "doc_hash": "43e918999a2a0f162cc73911a014676a76ce19e8410014bafada59a95bc07883"
+        },
+        "621b2338-0570-4ab4-aef1-340b0f53f1eb": {
+            "doc_hash": "ac2423c3693672d5d9c8ebf5d286e4f6830d7f6a52d83af641c05d436d8e7384"
+        },
+        "08096d91-1ded-4062-b2c0-602ec9db56e2": {
+            "doc_hash": "db3e948c0597a2013189e786a74828e2ca32c464769936ac9f59abaf5c647283"
+        },
+        "55947194-aaf6-41c8-84e1-69dab322cb07": {
+            "doc_hash": "d57a1fee262a349821974849d9828df3fc4ebce5d3c0066556c845965392f3c6",
+            "ref_doc_id": "./data-pdf/矿产核电报告英文_p11_20.pdf"
+        },
+        "d0bfbf43-74ef-4cd9-8b84-df2a0d317208": {
+            "doc_hash": "dd8538ff8c889e7bb409f36d33afa843767e223ab15ea0f652e0caa57a3ac78d",
+            "ref_doc_id": "8fb126b0-7d67-4850-81ba-e6f95c0d8a7a"
+        },
+        "6312881a-5bd3-4959-84a4-047f5dd3bd04": {
+            "doc_hash": "16ae5b88087efa5ed3f335fbfb136a9ba41127473a16871d7254e1c31ec6e95d",
+            "ref_doc_id": "49a93b28-1906-4f02-9877-c923d22778d4"
+        },
+        "2843f723-7c66-444d-9212-33b98c930286": {
+            "doc_hash": "e144ebc9e5f493806e5c18732bca36c3a532c94e75cfbd1aae9873e5d15d3a02",
+            "ref_doc_id": "f7a3935d-0069-472f-870e-2916a48294a7"
+        },
+        "28481b44-f41c-4614-b06f-23c5d4d650ae": {
+            "doc_hash": "b1305e91efe7ddcb1cd273ee9855f33513c5e6a936952a14a8aecd574c4bee8c",
+            "ref_doc_id": "c582d44b-f308-4a10-87c6-420267f91f6b"
+        },
+        "bf65d96e-de71-475d-a141-167a2fbbf527": {
+            "doc_hash": "164687976293dbe572fa9ff4927aa67c56c9bfdc7ef162f735bdef2e52fbfe75",
+            "ref_doc_id": "5e5f3409-93dd-4f35-a39a-c9f354cc19b9"
+        },
+        "e28d99c5-1ea4-4a29-98c5-9c79fc473803": {
+            "doc_hash": "666094e65c26e3f10a114b5acbed9d836c5dccc935d7b319f84b34f4d9820542",
+            "ref_doc_id": "0a407ef8-c863-4f0b-bbc1-2b5912e7cf66"
+        },
+        "66a9ff0f-8734-4cfd-84e9-44453f3f8468": {
+            "doc_hash": "da89ebe931117e94b4e24ea546464c093a0a25da19d9c711526a3261921ac877",
+            "ref_doc_id": "ddb8f33d-1d27-4a82-a418-ef4cfa982dfd"
+        },
+        "2de2d521-e406-441e-90de-75141ccbad66": {
+            "doc_hash": "5f4a79a2dabd9776d1663298592b32297d94add263c4880178747b63b45bd7c1",
+            "ref_doc_id": "621b2338-0570-4ab4-aef1-340b0f53f1eb"
+        },
+        "f2177101-1b98-4262-bc4c-6f50cf75a4ca": {
+            "doc_hash": "a6fbd6f24fa03f1d569f079b9afc2d9527855063c6351d017f353d945c69fcd8",
+            "ref_doc_id": "08096d91-1ded-4062-b2c0-602ec9db56e2"
+        },
+        "b5887829-11bd-4d52-bc15-489cdb2acb13": {
+            "doc_hash": "2e79ad36ea056c4e8ad18f1250d9c380115096ba7fd4b2178c82dfce79dff41a",
+            "ref_doc_id": "./data-pdf/矿产核电报告英文_p11_20.pdf"
+        },
+        "f724a6ab-f012-4123-8e42-9ce1bfbf68b0": {
+            "doc_hash": "210ea84fb6bcdb73eac0d6693d80391400f3313106f84161cecfa686f2e045b7",
+            "ref_doc_id": "8fb126b0-7d67-4850-81ba-e6f95c0d8a7a"
+        },
+        "c26c750d-2c4a-4ccd-8a42-0b9837a8ad2d": {
+            "doc_hash": "95b3d4133384d0a5336a96a2e8212dd49a4ac70ee3ff6a8842ac63934500589f",
+            "ref_doc_id": "49a93b28-1906-4f02-9877-c923d22778d4"
+        },
+        "9ce9a038-ba53-4a5a-9392-a1ee5c6e60d4": {
+            "doc_hash": "2f3d6309edd1018fd45e1e64e58f6f97738a5135e44a322a6089ff14e78466d0",
+            "ref_doc_id": "f7a3935d-0069-472f-870e-2916a48294a7"
+        },
+        "7398d401-0767-44ad-9d86-c0fb2347b171": {
+            "doc_hash": "61714cd16de0f6472de4555937c75f206bef74b31c38a57f08a6abdceeb80c2d",
+            "ref_doc_id": "c582d44b-f308-4a10-87c6-420267f91f6b"
+        },
+        "27f6e5d2-b7bb-4a0a-b6b0-0f28c3dd5d01": {
+            "doc_hash": "828ea5d74af7884ce26e0bb52f75701157c0b5a7188f0f59a46a503fa784416a",
+            "ref_doc_id": "5e5f3409-93dd-4f35-a39a-c9f354cc19b9"
+        },
+        "df43bdab-eab4-49a2-b135-032493c7ec3d": {
+            "doc_hash": "43f8fd9376c14b09c5879d61270a47f777439d7dbcbd1d9f77437a37bc44bc5c",
+            "ref_doc_id": "0a407ef8-c863-4f0b-bbc1-2b5912e7cf66"
+        },
+        "7af1afc9-9f3e-4a22-9198-cabd06179b4d": {
+            "doc_hash": "3c9e5ece3d7abc99f76e42f18113ea88f57db763003d7d1b3bb6024ee83708a7",
+            "ref_doc_id": "ddb8f33d-1d27-4a82-a418-ef4cfa982dfd"
+        },
+        "a0a185c3-c470-43b1-8f74-17c0d58cd6df": {
+            "doc_hash": "714a7ecfc9fa122d613e73ae51403c082755c5aeb163ad71135910927901a4ac",
+            "ref_doc_id": "621b2338-0570-4ab4-aef1-340b0f53f1eb"
+        },
+        "4266e82f-a515-405c-936d-2c6bf651e590": {
+            "doc_hash": "9480a00d1dfbc8ce64ad37527b37b9d31d6c93b1cbfc55a7214ec70853260de1",
+            "ref_doc_id": "08096d91-1ded-4062-b2c0-602ec9db56e2"
+        }
+    },
+    "docstore/data": {
+        "55947194-aaf6-41c8-84e1-69dab322cb07": {
+            "__data__": {
+                "id_": "55947194-aaf6-41c8-84e1-69dab322cb07",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "1",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "./data-pdf/矿产核电报告英文_p11_20.pdf",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "1",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "5d17dbc4825d2d4f28e4c54b615660325d1eae984a8e71a8416729d739647ebf",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "d0bfbf43-74ef-4cd9-8b84-df2a0d317208",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "dd8538ff8c889e7bb409f36d33afa843767e223ab15ea0f652e0caa57a3ac78d",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "d57a1fee262a349821974849d9828df3fc4ebce5d3c0066556c845965392f3c6",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-1 1 SUMMARY  \nEXECUTIVE SU MMARY  \nRoscoe Postle Associates Inc. (RPA) was retained by Guyana Goldfields Inc. (GGI)  to prepare \nan independent Technical Report on the Aurora Gold Mine (Aurora or the Mine) , located in \nGuyana, South America.  The purpose of this report is to disclose updated Mineral Resource \nand Mineral Reserve estimates for the Mine’s four main deposits, Rory’s Knoll  (RK or Rory’s \nKnoll) , East Walcott  (EWH or East Walcott Hill) , Mad Kiss  (MK or Mad Kiss) , and A leck Hill \n(AH or Aleck Hill) in support of an updated mine plan.   This Technical Report conforms to NI \n43-101 Standards of Disclosure for Mineral Projects.  RPA visited the property  on October 17 \nto 18, 2018 and November 17 to 19, 2018.  \n \nGGI is a Canadian- based company , focused on the exploration, development , and operation \nof gold deposits in Guyana, South America.   GGI’s  current  operation is the 100% -owned \nAurora Gold Mine.  The Mine is an open pit operation, feeding a Carbon- in-Leach (CIL) plant \nwith a capacity of 7,500 tonnes per day (tpd).   In 2018, the mine produced  150,000 ounces of \ngold in doré. \n \nA Feasibility Study (FS) on the Aurora Gold Mine was issued by SRK Consulting (Canada) Inc. \n(SRK) on April 9, 2012 and updated by Tetra  Tech, Inc. (Tetra Tech) in 2013.  The Mine was \nconstructed in 2014 and 2015.  The Mine poured its first gold in August 2015 and commercial \nproduction was declared on January 1, 2016.  An update of the FS was completed by Metal \nMining Consultants Inc. (MMC ) and SRK in early 2016 and a second update was completed  \nby SRK in February 2017 to update the planned plant expansion and associated changes in \nthe mining method and mining schedule.  \n \nOn October 30, 2018, GGI revised their 2018 production guidance downward, noting lower \nthan expected head grades, which they attributed to grade variability not captured in the \nresource model.  \n \nRPA was engaged to review the underlying resource models, assist in the investigation of the \ngeological controls and grade variabil ity of the deposit, and incorporate findings into updated \nMineral Resource and Mineral Reserve estimates.",
+                "start_char_idx": 0,
+                "end_char_idx": 2291,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "d0bfbf43-74ef-4cd9-8b84-df2a0d317208": {
+            "__data__": {
+                "id_": "d0bfbf43-74ef-4cd9-8b84-df2a0d317208",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "2",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "8fb126b0-7d67-4850-81ba-e6f95c0d8a7a",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "2",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "93ede26e3b89b218dc70691d7240b248e93dced0b1b17cf9c420a2be54f813ee",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "55947194-aaf6-41c8-84e1-69dab322cb07",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "1",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "d57a1fee262a349821974849d9828df3fc4ebce5d3c0066556c845965392f3c6",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "6312881a-5bd3-4959-84a4-047f5dd3bd04",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "16ae5b88087efa5ed3f335fbfb136a9ba41127473a16871d7254e1c31ec6e95d",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "dd8538ff8c889e7bb409f36d33afa843767e223ab15ea0f652e0caa57a3ac78d",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-2 The previous estimate  had an  effective date of December 31, 2017 and was based on a \nresource model estimated in 2012 (2012 resource model or 2012 m odel) depleted for \nproduction.  Additional information acquired since the 2012 model includes diamond, reverse \ncirculation , and blast hole drilling; relogging 50,000 m of drill core; and mapping of the open \npit exposures.  These data led to a revised geological interpretation of the style and structural \ncontrols for certain areas of Aurora mineralization, and a modified approach to the resource \nmodelling.  Changes in assumptions related to cut -off grades and open pit optimization \nassumptions were also updat ed. \n \nRPA updated the Mineral Resource estimate for the Aurora Gold Mine with data available to \nDecember 31, 2018.  Canadian Institute of Mining, Metallurgy and Petroleum (CIM) Definition \nStandards for Mineral Resources and Mineral Reserves (CIM (2014) defi nitions) were used for \nMineral Resource classification.  \n \nTable 1- 1 summarizes the total Mineral Resources, inclusive of Mineral Reserves, at the Mine \nas of December 31, 2018 (EOY  2018).   Measured and Indicated Mineral Resources total 40.6 \nmillion tonnes  (Mt) grading 3.07 g/t  Au and contain 4.01 million ounces of gold .  In addition, \nInferred Mineral Resources total 27.5 Mt grading 2.28 g/t Au and contain 2.02 million  ounces \nof gold.",
+                "start_char_idx": 0,
+                "end_char_idx": 1520,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "6312881a-5bd3-4959-84a4-047f5dd3bd04": {
+            "__data__": {
+                "id_": "6312881a-5bd3-4959-84a4-047f5dd3bd04",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "3",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "49a93b28-1906-4f02-9877-c923d22778d4",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "3",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "d0a9b079ce2f7c353023dfd4991c62b4187ef274c2ae9c26ba3d725d75479e74",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "d0bfbf43-74ef-4cd9-8b84-df2a0d317208",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "2",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "dd8538ff8c889e7bb409f36d33afa843767e223ab15ea0f652e0caa57a3ac78d",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "2843f723-7c66-444d-9212-33b98c930286",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "e144ebc9e5f493806e5c18732bca36c3a532c94e75cfbd1aae9873e5d15d3a02",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "16ae5b88087efa5ed3f335fbfb136a9ba41127473a16871d7254e1c31ec6e95d",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-3 TABLE 1 -1   SUM MARY OF MINERAL RESO URCES – DECEMBER 31, 2018  \nGuyana Goldfields Inc. – Aurora Gold Mine  \n \nCategory  Tonnage  \n(Mt) Grade  \n(g/t Au)  Contained Metal  \n(000 oz Au)  \nOpen Pit     \nMeasured   5.2   2.47   414  \nIndicated   3.5   2.78   310  \nMeasured + Indicated   8.7   2.59   724  \nInferred   2.0   2.44   155  \nUnderground     \nMeasured   0.1   3.52   16  \nIndicated   31.7   3.20   3,268  \nMeasured + Indicated   31.9   3.21   3,284  \nInferred   25.6   2.27   1,861  \nTotal Mineral Resource     \nMeasured   5.4   2.49   429  \nIndicated   35.2   3.16   3,578  \nMeasured + Indicated   40.6   3.07   4,008  \nInferred   27.5   2.28   2,016  \n \nNotes:  \n1. CIM (2014) definitions were followed for Mineral Resources.  \n2. Open pit Mineral Resources are reported at a cut -off grade of 0. 52 g/t Au for saprolite and 0. 70 g/t Au for \nfresh rock, and underground Mineral Resources are reported at a cut -off grade of 1.2 g/t Au for Rory’s \nKnoll area, and 1.7 g/t Au for other areas .  Cut-off grades are based on a price of US$1, 500 per o unce of \ngold and gold recoveries dependent on mine method, material type, and/or location.  \n3. Minimum mining width s of 5 m for open pit and 3 m for underground w ere used.  \n4. Bulk density is 2.8 t/m3 for fresh mineralization and 1.73 t/m3 for saprolite mineralization.  \n5. Stockpile data based on EOY 2018 . \n6. Mineral Resources are inclusive of Mineral Reserves.  \n7. Mineral  Resources that are not Mineral Reserves do not have demonstrated economic viability.  \n8. Numbers may not add due to rounding.  \n \nTable 1- 2 summarizes the Mineral Reserves at the Mine as of December 31, 2018.  These \nMineral Reserves are a combination of open pit  and underground reserves and stockpiles.  \nProven and Probable Mineral Reserves total 27.0 Mt grading 2.63 g/t Au and contain 2.28 \nmillion ounces of gold.",
+                "start_char_idx": 0,
+                "end_char_idx": 2004,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "2843f723-7c66-444d-9212-33b98c930286": {
+            "__data__": {
+                "id_": "2843f723-7c66-444d-9212-33b98c930286",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "4",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "f7a3935d-0069-472f-870e-2916a48294a7",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "4",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "3626ff7076c995dcfcf71e760833c8a19d89dd650e86d6c7be92c625911effd2",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "6312881a-5bd3-4959-84a4-047f5dd3bd04",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "3",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "16ae5b88087efa5ed3f335fbfb136a9ba41127473a16871d7254e1c31ec6e95d",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "28481b44-f41c-4614-b06f-23c5d4d650ae",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "b1305e91efe7ddcb1cd273ee9855f33513c5e6a936952a14a8aecd574c4bee8c",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "e144ebc9e5f493806e5c18732bca36c3a532c94e75cfbd1aae9873e5d15d3a02",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-4 TABLE 1 -2   MINERAL RESERVE  ESTIMATE  – DECEMBER 31, 2018  \nGuyana Goldfields Inc. – Aurora Gold Min e \n \nCategory  Tonnage  \n(000 t)  Grade  \n(g/t Au)  Contained Metal  \n(000 oz Au)  \n    \nProven     \nOpen Pit  3,914  2.61 328 \nUnderground  - - - \nSurface Stockpiles  784 1.24 31 \nTotal Proven  4,698  2.38 360 \n    \nProbable     \nOpen Pit Fresh  2,217 2.62 187 \nUnderground  20,038  2.69 1,731  \nTotal Probable  22,255  2.69 1,918  \n    \nProven & Probable     \nOpen Pit  6.131  2.61  515  \nUnderground  20,038  2.69 1,731  \nSurface Stockpiles  784 1.24    31  \nTotal Proven &Probable  26,953  2.63 2,278  \n \nNotes:  \n1. CIM (2014) definitions were followed for Mineral Reserves.  \n2. Open pit Mineral Reserves are estimated at a cut -off grade of 0.60 g/t Au  for saprolite and 0.83 g/t Au for \nfresh rock.  \n3. Underground Mineral Reserves are estimated at a cut -off grade of 1.50  g/t Au for Rory’s Knoll and 2.20  \ng/t Au for satellite deposits . \n4. Mineral Reserves are estimated using an average long- term gold price of US$1,200 per ounce.  \n5. Open pit Mineral R eserves used a minimum mining width of 5  m. \n6. A minimum mining width of 5 m  was used for Rory’s Knoll underground and a minimum width of 3 m  was \nused for the satellite deposits.  \n7. Bulk density is 2.8 t/m3 for fresh mineralization and 1.73 t/m3 for saprolite mineralization.  \n8. Numbers may not add due to rounding.  \n \nRPA is not aware of any mining, metallurgical, infrastructure, permitting, or other relevant \nfactors that could materially affect the Mineral Reserve estimate.  \n \nCONCLUSIONS  \nRPA provides the following interpretations and conclusions by area:  \n \nGEOLOGY AND MINERAL RESOURCES  \n• The mineralization at Aurora is confined within  a greenstone belt of the \nPaleoproterozoic Guiana Shield in a series of folded metasedimentary , metavolcanics, \nand intrusive rocks .",
+                "start_char_idx": 0,
+                "end_char_idx": 2010,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "28481b44-f41c-4614-b06f-23c5d4d650ae": {
+            "__data__": {
+                "id_": "28481b44-f41c-4614-b06f-23c5d4d650ae",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "5",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "c582d44b-f308-4a10-87c6-420267f91f6b",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "5",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "e2b2d45d295924075503f7d1496efefc2999138c664e0072ecb271087e9d06b5",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "2843f723-7c66-444d-9212-33b98c930286",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "4",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "e144ebc9e5f493806e5c18732bca36c3a532c94e75cfbd1aae9873e5d15d3a02",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "bf65d96e-de71-475d-a141-167a2fbbf527",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "164687976293dbe572fa9ff4927aa67c56c9bfdc7ef162f735bdef2e52fbfe75",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "b1305e91efe7ddcb1cd273ee9855f33513c5e6a936952a14a8aecd574c4bee8c",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-5 • Gold mineralization fits an orogenic model, similar to many of the other gold deposits \nfound within the Guiana Shield.  \n \n• The drilling, sampling, sample preparation, analyses, security, and data verification \nmeet industry standards and are appropriate for Mineral Resource estimation.  \n \n• Mineral Resource estimates hav e been prepared using acceptable interpolation \nstrategies.  The classification of Measured, Indicated, and Inferred Resources conform \nto CIM (2014) definitions.   \n \n• Mineral Resources are reported in clusive of Mineral Reserves and are estimated \neffective Dec ember 31, 2018 . \n \n• Total Mineral Resources at the Aurora Gold Mine are: \no Measured - 5.4 Mt, grading 2.49 g/t  Au, containing 429, 000 ounces of gold.  \no Indicated – 35.2 Mt, grading 3.16 g/t  Au, containing 3,578,000 ounces of gold.  \no Measured + Indicated –  40.6 Mt, grading 3.07 g/t  Au, containing 4,008,000  \nounces of gold.  \no Inferred – 27.5 Mt, grading 2.28 g/t  Au, containing 2,016  ounces of gold.  \n \n• Open Pit Mineral Resources at the Aurora Gold Mine are: \no Measured – 5.2 Mt, grading 2.47 g/t  Au, containing 414,000 ounces of gold.  \no Indicated – 3.5 Mt, grading 2.78 g/t  Au, containing 310,000 ounces of gold.  \no Measured + Indicated –  8.7 Mt, grading 2.59 g/t  Au, containing 724,000  ounces \nof gold . \no Inferred – 2.0 Mt, grading 2.44 g/t  Au, containing 155,000 ounces of gold.  \n \n• Underground Mineral Resources at the Aurora Gold Mine are: \no Measured – 0.1 Mt, grading 3.52 g/t Au, containing 16,000 ounces of gold.  \no Indicated – 31.7 Mt, grading 3.20 Au, containing 3,268,000 ounces of gold.  \no Measured + Indicated –  31.9 Mt, grading 3.21 g/t  Au, containing 3,284,000  \nounces of gold.  \no Inferred – 25.6 Mt, grading 2.27 g/t Au, containing 1,861,000 ounces of gold.  \n \n \n• The differences between the current resource estimate and the EOY  2017 estimate are \nprimarily  due to changes in geological interpretation, grade estimation methods and \nparameters, data, classification criteria, cut -off grades, and resource reporting pit \nshells.  \n \nMINING AND MINERAL R ESERVES  \n• Mineral Reserves have been estimated within three open pit deposits, four \nunderground deposits and surface stockpiles.  \n \n• Total Mineral Reserves at the Mine  are: \no Proven: 4.70 million tonnes grading 2.38 g/t Au, containing 360,000  ounces of \ngold. \no Probable: 22.3 million tonnes grading 2.69 g/t Au, containing 1,918 ,000 ounces \nof gold . \no Proven and Probable: 27.0 million tonnes grading 2.69 g/t Au, containing \n2,278,000  ounces of gold",
+                "start_char_idx": 0,
+                "end_char_idx": 2711,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "bf65d96e-de71-475d-a141-167a2fbbf527": {
+            "__data__": {
+                "id_": "bf65d96e-de71-475d-a141-167a2fbbf527",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "6",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "5e5f3409-93dd-4f35-a39a-c9f354cc19b9",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "6",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "b5dc1147171187325ff6da4b7dbc7bcffe41e76893505ecbb0873841d55c7bd3",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "28481b44-f41c-4614-b06f-23c5d4d650ae",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "5",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "b1305e91efe7ddcb1cd273ee9855f33513c5e6a936952a14a8aecd574c4bee8c",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "e28d99c5-1ea4-4a29-98c5-9c79fc473803",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "666094e65c26e3f10a114b5acbed9d836c5dccc935d7b319f84b34f4d9820542",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "164687976293dbe572fa9ff4927aa67c56c9bfdc7ef162f735bdef2e52fbfe75",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-6  \n• In comparison to the previous reserve estimate (December 31, 2017), Mineral \nReserves are reduced by 37% in tonnes, 8% in grade, and 43% in ounces.  \n \n• The open pit mine has been operating for three years and has a remaining mine life of \napproximately three years.  The underground mine will extend for a further nine years.  \n \n• The Rory’s Knoll pit is the largest open pit and is currently 170 m deep.  The ultimate \npit depth is planned to be 320 m (225 m  relative elevation (RL) ). \n \n• The open pit is being mined using a mining contractor with a fleet of 5 m3 to 6 m3 \nexcavators and 30- tonne to 45- tonne haul trucks.  \n \n• The open pit mining plan requires production rates of 65,000 tpd moved in 2019, and \n72,000 tpd moved in 2020 to attain the planned mill feed.  The schedule is based on \nincreases in manpower and equipment from the mining contractor and will require \ndiligent effort and co -ordination to meet the plan.   \n \n• The high open pit mining rate is necessary to overcome high stripping requirements to \naccess ore.  \n \n• Open pit dilution and ore loss have been estimated using the same methodology as \nprevious estimates, based on a 5 m x 5 m x 5 m block as the selective mining unit, and \nestimating 0.5 m of dilution on ore/waste contacts.  \n \n• Due to the complicated nature of the geology, ore definition, grade control, and the \nreduction of dilution and ore loss in the pit remain concerns.  The Mine continues to \nwork toward optimizing mining practices that address these issues.  \n \n• Underground development and production from the Mad Kiss deposit are forecast for \n2019 as well as development towards the Rory’s Knoll underground deposit.  \n \n• Optimization of the underground production and development plan has not been \ncompleted, as the Rory’s Knoll underground is ready before the open pit is complete.  \nThere are opportunities to defer underground production from 2021 into future periods \nthus deferring operating costs, and ther e are additional deferrals of underground \ndevelopment in the same period which would defer capital costs . \n \n• The sub level caving (SLC) plans have not been fully optimized on a level by level basis \nand there may be opportunities for improvement.  \n \n• The Rory’s Knoll Mineral Reserves were limited by RPA to - 1,000 m RL.  There are \nMineral Resources below the bottom of the planned underground mine.  \n \n• A combination of groundwater inflow estimates, for the decline and for the mine, have \nbeen used in this report.  Proj ected groundwater inflow has increased from past \nestimates as the present decline will cross a number of structures  which may be water -\nbearing.  A groundwater inflow estimate  which accounts for new interpretation of the \nstructural geology  has not yet been prepared.",
+                "start_char_idx": 0,
+                "end_char_idx": 2929,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "e28d99c5-1ea4-4a29-98c5-9c79fc473803": {
+            "__data__": {
+                "id_": "e28d99c5-1ea4-4a29-98c5-9c79fc473803",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "7",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "0a407ef8-c863-4f0b-bbc1-2b5912e7cf66",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "7",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "4f1b528029d9ccf43779c1f50687d8f74ac7e32ac49c77107a6bf3f26e956bc5",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "bf65d96e-de71-475d-a141-167a2fbbf527",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "6",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "164687976293dbe572fa9ff4927aa67c56c9bfdc7ef162f735bdef2e52fbfe75",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "66a9ff0f-8734-4cfd-84e9-44453f3f8468",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "da89ebe931117e94b4e24ea546464c093a0a25da19d9c711526a3261921ac877",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "666094e65c26e3f10a114b5acbed9d836c5dccc935d7b319f84b34f4d9820542",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-7 • The detailed engineering for the underground mining has not been undertaken and \nshould include:  \n \no Optimization of the mine development rates and schedules  \no Optimization of the stoping layouts and production plans  \no Dewatering model update and review  \no Mine ventilation design and consideration of mine air cooling requirements  \no Review of alternative equipment to reduce ventilation requirements  \n \nPROCESSING AND METAL LURGY  \n• The Aurora processing plant has been operating successfully for over three years.  \n \n• Plant improvements in 2018 and 2019 were successful in increasing the plant \nthroughput fr om the original design capacity of 5,000 tpd to approximately 7,500 tpd of \nfresh rock ore.  \n \n• RPA’s analysis of the metallurgical test data and operating data does not show a strong \ncorrelation between head grade and recovery , or any other factors .  Therefore, in the \nLife of Mine (LOM) Plan, recovery has been estimated using a constant -tail equation, \nwith lower tailings grades used during periods of lower production rates (reflecting an \nopportunity to achieve a finer grind size).  Annual recoveries range from 91.8% to 95%.  \n \nENVIRONMENTAL AND SO CIAL  \n• The project has been in operation for over three  years.  Established Management Plans \nand an Environmental, Social, Health, and Safety Management System  are in place \nand functioning.  Ext ernal audits occur regularly to confirm compliance with permit \nrequirements and International Finance Corporation (IFC) Standards.  \n \n• The Environmental Protection Agency ( EPA)  conducted a routine compliance \ninspection of AGM, including the camp facilities, i n December 2018.  The EPA \nrequested that AGM modify some aspects of the waste management plan, camp waste \nwater treatment circuit, and upgrade the waste oil containment facility.   AGM addressed \nall the matters raised by the EPA during its inspection.  They  will be reviewed during \nthe next site inspection.  At the time of the December inspection, the Company was \ncompliant on all other environmental conditions of the operating permit.  \n \n• To the best of RPA’s knowledge, there are no environmental issues that could \nmaterially impact GGI’s ability to extract the Mineral Resources or Mineral Reserves at \nthis time.  \n \nECONOMICS  \n• The LOM P lan demonstrates a positive cash flow at the Mineral Reserve gold price of \nUS$1,200/oz.  \n \n• Cash flow analysis was carried out at a gold price of US$1,300/oz.  \n \n• The development and exploitation of the underground Mineral Reserves demonstrates \na positive Net Present Value (NPV) under the assumptions in this analysis.",
+                "start_char_idx": 0,
+                "end_char_idx": 2776,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "66a9ff0f-8734-4cfd-84e9-44453f3f8468": {
+            "__data__": {
+                "id_": "66a9ff0f-8734-4cfd-84e9-44453f3f8468",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "8",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "ddb8f33d-1d27-4a82-a418-ef4cfa982dfd",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "8",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "43e918999a2a0f162cc73911a014676a76ce19e8410014bafada59a95bc07883",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "e28d99c5-1ea4-4a29-98c5-9c79fc473803",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "7",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "666094e65c26e3f10a114b5acbed9d836c5dccc935d7b319f84b34f4d9820542",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "2de2d521-e406-441e-90de-75141ccbad66",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "5f4a79a2dabd9776d1663298592b32297d94add263c4880178747b63b45bd7c1",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "da89ebe931117e94b4e24ea546464c093a0a25da19d9c711526a3261921ac877",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-8 RISKS  \n• Failure to maintain design slope angles will result in a loss o f ore available from the \npits. \n \n• Open pit mining rates (in terms of vertical advance or sinking rate) planned in the Rory’s \nKnoll pit are at risk due to operational delays and/or mobile equipment congestion.  \n \n• Delays due to major precipitation events are not specifically included in the schedule.  \n \n• Dilution may exceed that estimated by RPA.  \n \n• Groundwater inflow and/or ground conditions in the underground mines may differ from \nthose considered by RPA in this report , due to recent changes in the interpretation  \nstructural geolog y. \n \n• Underground training requirements may be higher than projected leading to increased \noperating costs.  \n \nOPPORTUNITIES  \n• There are Mineral Resources beyond the pit and underground Mineral Reserves in this \nreport.  Further Mineral Resources may be defined or converted to Mineral Reserve \nthrough exploration, definition drilling and mine planning.  \n \n• The Aleck Hill pits contain Inferred Mineral Resources totalling 46,000 t at 2.8 g/t Au, \nwhich are included withi n mine plan waste quantities.  If grade control definition drilling \nduring the mining operation upgrades any of the Inferred Mineral Resources, this would \nprovide additional revenue and reduced pit high strip ratio.  \n \n• There is potential to supplement the cu rrent Mineral Resources with exploration \nbeneath the East Walcott, Mad Kiss, and Aleck Hill satellite deposits.   GGI is currently \ndrilling these targets from surface.   More efficient drilling will be facilitated from \nunderground as the ramp to access the Rory’s Knoll underground deposit advances.  \n \n• Optimization of the underground development plans and advance rates may provide \ndeferrals and/or reductions in capital expenditures.  \n \nRECOMMENDATIONS  \nFrom its work RPA provides the following recommendations:  \n \nGEOLOGY AND MINERAL RESOURCES  \n• Continue re -logging program of old drill core and collecting structural measurements \nfrom oriented core for future drilling.  \n \n• Collect accura te production tonnages and grades by mine area, including an estimate \nof tonnage mined based on open pit surveys of each blast, and an estimate of dilution \nand extraction using the same data.  These data should be reconciled to the Mineral \nReserve estimates for the same volume monthly.  These data be reviewed with respect \nto the resource models before the next update.",
+                "start_char_idx": 0,
+                "end_char_idx": 2592,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "2de2d521-e406-441e-90de-75141ccbad66": {
+            "__data__": {
+                "id_": "2de2d521-e406-441e-90de-75141ccbad66",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "9",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "621b2338-0570-4ab4-aef1-340b0f53f1eb",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "9",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "ac2423c3693672d5d9c8ebf5d286e4f6830d7f6a52d83af641c05d436d8e7384",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "66a9ff0f-8734-4cfd-84e9-44453f3f8468",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "8",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "da89ebe931117e94b4e24ea546464c093a0a25da19d9c711526a3261921ac877",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "f2177101-1b98-4262-bc4c-6f50cf75a4ca",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "a6fbd6f24fa03f1d569f079b9afc2d9527855063c6351d017f353d945c69fcd8",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "5f4a79a2dabd9776d1663298592b32297d94add263c4880178747b63b45bd7c1",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-9 MINING AND MINERAL R ESERVES  \n• Review the open pit production plan by designing dig ore/waste packets  by bench, \nassessing dilution and losses, and revising the schedule accordingly.  \n \n• Implement and maintain an ore control program in the pits and carry out monthly \nreconciliation to assess the performance compared to the Mineral Reserve and the \nPlan and develop action plans to improve ore control.  \n \n• Review and optimize the SLC and open benching stope design  \n \n• Undertake the detailed engineering for the underground mining and include:  \no Dewatering model update and review  \no Mine ventilation design and consideration of mine air cooling requirements  \no Review equipment selections with a view to reducing the ventilation \nrequirements  \n \n• Review and optimize the underground mine production schedules . \n \n• Implement the geotechnical recommendations, in particular those related to slope \nmonitoring, piezometer installat ion and rock quality monitoring in the underground \nexcavations . \n \n• Review and revise the groundwater hydrology model based upon the revisions to the \nmining layouts  and up- to-date geological inputs,  and collect the necessary data to \nimprove the groundwater hy drology model .  \n \n• Prepare the necessary environmental studies to permit full underground mining \noperations.  \n \n• Develop detailed plans for the exploitation of the Mad Kiss underground deposit in \n2019.   \n \nPROCESSING AND METAL LURGY  \n• A thorough analysis of the operating data should be conducted in order to more fully \nunderstand the impact of varying ore types, ore hardness, particle size distribution of \nthe feed to the plant, and other variables have on the semi -autogenous grinding ( SAG) \nmill product size distribution and gold recovery.  \n \n• Metallurgical testing of the various ore types should be continued and ongoing in order \nto more fully understand the metallurgical response of the various ore types and the \nsynergies that may occur depending on the blend of ore types.  \n \nENVIRONMENTAL AND SO CIAL  \n• Since the Environmental and Social Impact Assessments (ESIAs) were prepared by \ntwo separate groups for two separate reasons (i.e., to meet IFC requirements and for \nEPA permitting) the terminology  and, in some cases, the lists of Management Plans \nand other documents, is inconsistent.  RPA recommends that a common terminology \nbe adopted, the documents, including the Management System and Management \nPlans be updated as needed, and references to outdated and inconsistent information \nand terminology be abandoned.",
+                "start_char_idx": 0,
+                "end_char_idx": 2710,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "f2177101-1b98-4262-bc4c-6f50cf75a4ca": {
+            "__data__": {
+                "id_": "f2177101-1b98-4262-bc4c-6f50cf75a4ca",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "10",
+                    "file_name": "矿产核电报告英文_p11_20.pdf",
+                    "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 116936,
+                    "creation_date": "2024-01-09",
+                    "last_modified_date": "2023-11-12",
+                    "last_accessed_date": "2024-01-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "08096d91-1ded-4062-b2c0-602ec9db56e2",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "10",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "db3e948c0597a2013189e786a74828e2ca32c464769936ac9f59abaf5c647283",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "2de2d521-e406-441e-90de-75141ccbad66",
+                        "node_type": "1",
+                        "metadata": {
+                            "page_label": "9",
+                            "file_name": "矿产核电报告英文_p11_20.pdf",
+                            "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 116936,
+                            "creation_date": "2024-01-09",
+                            "last_modified_date": "2023-11-12",
+                            "last_accessed_date": "2024-01-09"
+                        },
+                        "hash": "5f4a79a2dabd9776d1663298592b32297d94add263c4880178747b63b45bd7c1",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "a6fbd6f24fa03f1d569f079b9afc2d9527855063c6351d017f353d945c69fcd8",
+                "text": "www.rpacan.com  \n \n \n Guyana Goldfields Inc. – Aurora Gold Mine, Project #30 92 \nTechnical Report NI 43- 101 – March 2 9, 2019  Page 1-10  \n• Some of the documents provided to RPA for review were issued in draft format or had \nnot been updated to include current information or requirements.  Since Environmental \nand Social Management documents are, by definition, living documents that should be \nreviewed and updated periodically and as needed, RPA recommends that the \nManagement System, Management Plans, and other Environmental, Health, and \nSafety (EHS) documents be reviewed, updated, and finalized and that a routine be \ndeveloped to complete systematic reviews periodically.  The review should include a \nthorough review of the current permitting and IFC requirements and, as new \nrequirements are identified, existing documents should be updat ed, and new \ndocuments should be written when they are needed.  \n \nECONOMIC ANALYSIS  \nAn after-tax Cash Flow Projection has been generated from the LOM  production schedule and \ncapital and operating cost estimates, and is summarized in Table 1-3.  A summary of t he key \ncriteria is provided below.  \n \nECONOMIC CRITERIA \nPRODUCTION  \n• 7,500 tpd processing from open pit, underground and stockpiles for three years, \nreducing to 5,000 tpd mining from underground alone for nine years thereafter . \n• Mill recovery averaging 9 4%. \n \nREVENUE  \n• Gold at refinery 99.95% payable.  \n• Metal price: US$1,300 per ounce gold.  \n• Net Smelter Return includes doré refining, transport, and insurance costs.  \n• 8% NSR payable to Government of Guyana \n• Revenue is recognized at the time of production.  \n \nCOSTS  \n• LOM  production plan as summarized in Table 1 -3. \n• Mine life capital totals U S$374 million  excluding reclamation and working capital . \n• Average operating cost over the mine life is US $56.34 per tonne milled.",
+                "start_char_idx": 0,
+                "end_char_idx": 1880,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "b5887829-11bd-4d52-bc15-489cdb2acb13": {
+            "__data__": {
+                "id_": "b5887829-11bd-4d52-bc15-489cdb2acb13",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "./data-pdf/矿产核电报告英文_p11_20.pdf",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "2e79ad36ea056c4e8ad18f1250d9c380115096ba7fd4b2178c82dfce79dff41a",
+                "text": "这段提供的文本是关于Guyana Goldfields Inc.（GGI）的Aurora Gold Mine的技术报告。该报告旨在披露矿山的四个主要矿床（Rory's Knoll，East Walcott Hill，Mad Kiss和Aleck Hill）的更新的矿产资源和矿产储量估计，以支持更新的矿山计划。该报告还提到了GGI是一家加拿大公司，专注于在南美洲圭亚那的黄金矿床的勘探、开发和运营。Aurora Gold Mine是GGI目前的运营项目，是一个露天开采矿山，每天可处理7500吨矿石。该文本还提到了关于Aurora Gold Mine的可行性研究、矿山建设和生产情况的信息。\n\n这段文本可以回答以下问题：\n1. Aurora Gold Mine的位置在哪里？\n2. Aurora Gold Mine的矿床有哪些？\n3. Aurora Gold Mine的生产能力是多少？\n4. Aurora Gold Mine的年产量是多少？\n5. Aurora Gold Mine的可行性研究是由哪些公司完成的？\n6. Aurora Gold Mine的建设和生产时间是什么时候？\n7. Aurora Gold Mine的矿产资源和矿产储量估计是如何更新的？\n8. Aurora Gold Mine的2018年产量指导下调的原因是什么？\n9. RPA的任务是什么？",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "f724a6ab-f012-4123-8e42-9ce1bfbf68b0": {
+            "__data__": {
+                "id_": "f724a6ab-f012-4123-8e42-9ce1bfbf68b0",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "8fb126b0-7d67-4850-81ba-e6f95c0d8a7a",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "210ea84fb6bcdb73eac0d6693d80391400f3313106f84161cecfa686f2e045b7",
+                "text": "提供的文本是关于Guyana Goldfields Inc.的Aurora Gold Mine项目的技术报告。该报告更新了Aurora Gold Mine的矿产资源估计，包括截至2018年12月31日的数据。报告总结了该矿产的总矿产资源，包括已探明和指示矿产资源以及推测矿产资源的数量和品位。\n\n这段文本可以回答以下问题：\n1. Aurora Gold Mine的矿产资源估计是基于哪些数据和模型？\n2. 2012年的资源模型经过哪些更新和修改？\n3. Aurora Gold Mine的矿产资源估计是根据哪些标准进行分类的？\n4. Aurora Gold Mine的总矿产资源包括哪些类型的矿产和数量？\n5. Aurora Gold Mine的矿产资源的品位是多少？\n6. Aurora Gold Mine的矿产资源估计是否包括已探明、指示和推测矿产资源？\n7. Aurora Gold Mine的矿产资源估计是否包括金的数量？\n8. Aurora Gold Mine的矿产资源估计的有效日期是什么时候？\n9. Aurora Gold Mine的矿产资源估计是否考虑了开放式采矿的优化假设和截止品位的变化？\n10. Aurora Gold Mine的矿产资源估计是否考虑了地质解释和结构控制的变化？",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "c26c750d-2c4a-4ccd-8a42-0b9837a8ad2d": {
+            "__data__": {
+                "id_": "c26c750d-2c4a-4ccd-8a42-0b9837a8ad2d",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "49a93b28-1906-4f02-9877-c923d22778d4",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "95b3d4133384d0a5336a96a2e8212dd49a4ac70ee3ff6a8842ac63934500589f",
+                "text": "提供的文本是关于圭亚那金田公司的奥罗拉金矿的矿产资源和储量报告。该报告提供了2018年12月31日的矿产资源和储量数据，包括开放式采矿和地下采矿的测量、指示和推测矿产资源，以及矿石堆存数据。此外，报告还提供了2018年12月31日的矿石储量数据，包括开放式采矿、地下采矿和堆存的已证实和可靠的矿石储量。这些数据可以回答以下一些问题：\n- 奥罗拉金矿的矿产资源和储量分别是多少？\n- 开放式采矿和地下采矿的矿产资源和储量分别是多少？\n- 2018年12月31日的矿石堆存数据是多少？\n- 奥罗拉金矿的矿石储量的金品位是多少？\n- 奥罗拉金矿的矿石储量中包含多少盎司的金？",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "9ce9a038-ba53-4a5a-9392-a1ee5c6e60d4": {
+            "__data__": {
+                "id_": "9ce9a038-ba53-4a5a-9392-a1ee5c6e60d4",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "f7a3935d-0069-472f-870e-2916a48294a7",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "2f3d6309edd1018fd45e1e64e58f6f97738a5135e44a322a6089ff14e78466d0",
+                "text": "提供的文本是关于Guyana Goldfields Inc.的Aurora Gold Mine的技术报告。该报告提供了2018年12月31日的矿产储量估计数据，包括已证实的矿石储量和可能的矿石储量。报告还提供了矿石储量的分布情况，包括露天开采、地下开采和表面储矿堆的数据。此外，报告还提供了矿石储量估计所使用的方法和参数。\n\n这段文本可以回答以下问题：\n1. Guyana Goldfields Inc.的Aurora Gold Mine的矿石储量是多少？\n2. 矿石储量的分布情况是怎样的？\n3. 矿石储量估计所使用的方法和参数是什么？\n4. 是否有任何可能影响矿石储量估计的因素？\n5. Aurora Gold Mine的地质特征是什么？",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7398d401-0767-44ad-9d86-c0fb2347b171": {
+            "__data__": {
+                "id_": "7398d401-0767-44ad-9d86-c0fb2347b171",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "c582d44b-f308-4a10-87c6-420267f91f6b",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "61714cd16de0f6472de4555937c75f206bef74b31c38a57f08a6abdceeb80c2d",
+                "text": "提供的文本是关于Guyana Goldfields Inc.的Aurora Gold Mine项目的技术报告。该报告提供了关于该矿床的金矿化特征、资源估计、开放式矿床和地下矿床的资源量以及矿石储量的信息。这份报告还提到了资源估计的方法和标准，以及与2017年底估计相比的差异。\n\n这份文本可以回答以下一些问题：\n1. Guyana Goldfields Inc.的Aurora Gold Mine项目的金矿化特征是什么？\n2. Aurora Gold Mine项目的总资源量和矿石储量是多少？\n3. Aurora Gold Mine项目的开放式矿床和地下矿床的资源量分别是多少？\n4. Aurora Gold Mine项目的资源估计方法和标准符合哪些行业标准？\n5. 与2017年底估计相比，Aurora Gold Mine项目的资源量有哪些变化？",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "27f6e5d2-b7bb-4a0a-b6b0-0f28c3dd5d01": {
+            "__data__": {
+                "id_": "27f6e5d2-b7bb-4a0a-b6b0-0f28c3dd5d01",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "5e5f3409-93dd-4f35-a39a-c9f354cc19b9",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "828ea5d74af7884ce26e0bb52f75701157c0b5a7188f0f59a46a503fa784416a",
+                "text": "提供的文本是关于Guyana Goldfields Inc.的Aurora Gold Mine项目的技术报告。报告提供了关于该矿山的矿藏储量、开采计划、地质情况、地下开发等方面的信息。\n\n这段文本可以回答以下问题：\n1. Aurora Gold Mine的矿藏储量相比2017年的储量估计有何变化？\n2. Aurora Gold Mine的开放式采矿计划是什么？需要多少产量才能实现计划的磨矿进料？\n3. Aurora Gold Mine的开放式采矿存在哪些问题，如稀释和矿石损失？\n4. Aurora Gold Mine的地下开发和生产计划是什么？是否有机会推迟地下生产和开发以减少成本？\n5. Aurora Gold Mine的地下开采计划是否已经优化？是否有改进的机会？\n6. Aurora Gold Mine的地下矿藏是否有未开发的矿产资源？\n7. Aurora Gold Mine的地下水流入估计是否已经考虑了新的结构地质解释？\n\n这些问题可以帮助了解Aurora Gold Mine项目的矿藏储量变化、开采计划、地质情况和地下开发等方面的情况。",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "df43bdab-eab4-49a2-b135-032493c7ec3d": {
+            "__data__": {
+                "id_": "df43bdab-eab4-49a2-b135-032493c7ec3d",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "0a407ef8-c863-4f0b-bbc1-2b5912e7cf66",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "43f8fd9376c14b09c5879d61270a47f777439d7dbcbd1d9f77437a37bc44bc5c",
+                "text": "提供的文本是关于Guyana Goldfields Inc.的Aurora Gold Mine项目的技术报告。该报告提供了关于该矿山项目的详细工程信息，包括地下采矿的优化、矿山处理厂的运营情况、环境和社会方面的管理以及经济性分析。\n\n这段文本可以回答以下一些问题：\n1. Aurora Gold Mine项目的地下采矿工程是否进行了详细设计和优化？\n2. Aurora处理厂的运营情况如何？是否有进行过改进？\n3. 在生命周期计划中，金矿品位和回收率之间是否存在强相关性？\n4. Aurora Gold Mine项目是否符合环境保护要求和国际金融公司标准？\n5. 在金矿价格为1,200美元/盎司时，LOM计划是否具有正现金流？\n6. 在金矿价格为1,300美元/盎司时，地下矿产储量的开发和开采是否具有正净现值？\n\n这些问题涵盖了该矿山项目的技术、环境、经济等方面的信息。",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7af1afc9-9f3e-4a22-9198-cabd06179b4d": {
+            "__data__": {
+                "id_": "7af1afc9-9f3e-4a22-9198-cabd06179b4d",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "ddb8f33d-1d27-4a82-a418-ef4cfa982dfd",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "3c9e5ece3d7abc99f76e42f18113ea88f57db763003d7d1b3bb6024ee83708a7",
+                "text": "提供的文本是关于Guyana Goldfields Inc.的Aurora Gold Mine项目的技术报告。该报告提到了该项目面临的风险、机遇和建议。其中风险包括设计坡度的维护问题、开采速度受到操作延迟和设备拥堵的影响、降雨事件可能导致延迟、稀释可能超过预期、地下矿井的地下水和地质条件可能与报告中考虑的不同以及地下培训需求可能高于预期。机遇包括进一步通过勘探、定义钻探和矿山规划来确定或转化为矿石储量的矿石资源、通过采矿过程中的级配定义钻探提升推测矿石资源的可能性以及在东沃尔科特、Mad Kiss和Aleck Hill卫星矿床下进行勘探以补充当前的矿石资源。建议包括继续对旧钻孔芯进行重新记录和收集结构测量数据以供未来钻探使用，收集准确的生产吨位和品位数据，并与矿石储量估计进行对比和调整，以及在下一次更新之前将这些数据与资源模型进行审查。\n\n这段文本可以回答以下问题：\n1. Guyana Goldfields Inc.的Aurora Gold Mine项目面临哪些风险和机遇？\n2. 该项目的开采速度和设备拥堵是否会影响开放式采矿速率？\n3. 降雨事件是否会导致项目延迟？\n4. 地下矿井的地下水和地质条件是否与报告中考虑的不同？\n5. 地下培训需求是否会高于预期？\n6. 该项目是否有进一步的矿石资源开发潜力？\n7. 如何优化地下开发计划和推进速度以减少资本支出？\n8. 建议采取哪些措施来改进地质和矿石资源的管理和评估？",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "a0a185c3-c470-43b1-8f74-17c0d58cd6df": {
+            "__data__": {
+                "id_": "a0a185c3-c470-43b1-8f74-17c0d58cd6df",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "621b2338-0570-4ab4-aef1-340b0f53f1eb",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "714a7ecfc9fa122d613e73ae51403c082755c5aeb163ad71135910927901a4ac",
+                "text": "提供的文本是关于Guyana Goldfields Inc.的Aurora Gold Mine项目的技术报告。该报告涵盖了矿产储量、开采计划、地质工程、地下开采、冶金处理、环境和社会等方面的内容。\n\n这段文本可以回答以下一些问题：\n1. Aurora Gold Mine项目的开采计划是如何设计的？\n2. 有关地下开采的详细工程是什么？\n3. 如何优化地下矿山的生产计划？\n4. 在冶金处理过程中，不同矿石类型对半自磨磨机产品粒度分布和金的回收率有何影响？\n5. 环境和社会方面的影响评估报告存在哪些问题，需要进行更新和修订？",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "4266e82f-a515-405c-936d-2c6bf651e590": {
+            "__data__": {
+                "id_": "4266e82f-a515-405c-936d-2c6bf651e590",
+                "embedding": null,
+                "metadata": {},
+                "excluded_embed_metadata_keys": [],
+                "excluded_llm_metadata_keys": [],
+                "relationships": {
+                    "1": {
+                        "node_id": "08096d91-1ded-4062-b2c0-602ec9db56e2",
+                        "node_type": null,
+                        "metadata": {},
+                        "hash": null,
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "hash": "9480a00d1dfbc8ce64ad37527b37b9d31d6c93b1cbfc55a7214ec70853260de1",
+                "text": "提供的文本是关于Guyana Goldfields Inc.的Aurora Gold Mine项目的技术报告。该报告提供了关于该项目的经济分析，包括生产计划、收入、成本等方面的信息。该文本可以回答以下问题：该项目的生产计划是什么？预计的金属价格是多少？政府将获得多少NSR？该项目的平均运营成本是多少？",
+                "start_char_idx": null,
+                "end_char_idx": null,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        }
+    },
+    "docstore/ref_doc_info": {
+        "./data-pdf/矿产核电报告英文_p11_20.pdf": {
+            "node_ids": [
+                "55947194-aaf6-41c8-84e1-69dab322cb07",
+                "b5887829-11bd-4d52-bc15-489cdb2acb13"
+            ],
+            "metadata": {
+                "page_label": "1",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "8fb126b0-7d67-4850-81ba-e6f95c0d8a7a": {
+            "node_ids": [
+                "d0bfbf43-74ef-4cd9-8b84-df2a0d317208",
+                "f724a6ab-f012-4123-8e42-9ce1bfbf68b0"
+            ],
+            "metadata": {
+                "page_label": "2",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "49a93b28-1906-4f02-9877-c923d22778d4": {
+            "node_ids": [
+                "6312881a-5bd3-4959-84a4-047f5dd3bd04",
+                "c26c750d-2c4a-4ccd-8a42-0b9837a8ad2d"
+            ],
+            "metadata": {
+                "page_label": "3",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "f7a3935d-0069-472f-870e-2916a48294a7": {
+            "node_ids": [
+                "2843f723-7c66-444d-9212-33b98c930286",
+                "9ce9a038-ba53-4a5a-9392-a1ee5c6e60d4"
+            ],
+            "metadata": {
+                "page_label": "4",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "c582d44b-f308-4a10-87c6-420267f91f6b": {
+            "node_ids": [
+                "28481b44-f41c-4614-b06f-23c5d4d650ae",
+                "7398d401-0767-44ad-9d86-c0fb2347b171"
+            ],
+            "metadata": {
+                "page_label": "5",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "5e5f3409-93dd-4f35-a39a-c9f354cc19b9": {
+            "node_ids": [
+                "bf65d96e-de71-475d-a141-167a2fbbf527",
+                "27f6e5d2-b7bb-4a0a-b6b0-0f28c3dd5d01"
+            ],
+            "metadata": {
+                "page_label": "6",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "0a407ef8-c863-4f0b-bbc1-2b5912e7cf66": {
+            "node_ids": [
+                "e28d99c5-1ea4-4a29-98c5-9c79fc473803",
+                "df43bdab-eab4-49a2-b135-032493c7ec3d"
+            ],
+            "metadata": {
+                "page_label": "7",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "ddb8f33d-1d27-4a82-a418-ef4cfa982dfd": {
+            "node_ids": [
+                "66a9ff0f-8734-4cfd-84e9-44453f3f8468",
+                "7af1afc9-9f3e-4a22-9198-cabd06179b4d"
+            ],
+            "metadata": {
+                "page_label": "8",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "621b2338-0570-4ab4-aef1-340b0f53f1eb": {
+            "node_ids": [
+                "2de2d521-e406-441e-90de-75141ccbad66",
+                "a0a185c3-c470-43b1-8f74-17c0d58cd6df"
+            ],
+            "metadata": {
+                "page_label": "9",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        },
+        "08096d91-1ded-4062-b2c0-602ec9db56e2": {
+            "node_ids": [
+                "f2177101-1b98-4262-bc4c-6f50cf75a4ca",
+                "4266e82f-a515-405c-936d-2c6bf651e590"
+            ],
+            "metadata": {
+                "page_label": "10",
+                "file_name": "矿产核电报告英文_p11_20.pdf",
+                "file_path": "data-pdf/矿产核电报告英文_p11_20.pdf",
+                "file_type": "application/pdf",
+                "file_size": 116936,
+                "creation_date": "2024-01-09",
+                "last_modified_date": "2023-11-12",
+                "last_accessed_date": "2024-01-09"
+            }
+        }
+    }
+}
